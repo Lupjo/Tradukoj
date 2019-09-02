@@ -1,7 +1,7 @@
 ﻿1
 00:00:32,040 --> 00:00:35,430
 Memorante Aude Monnin
-Dediĉita al Jean-Claude Guiguet
+Dediĉite al Jean-Claude Guiguet
 
 2
 00:00:50,680 --> 00:00:55,430
@@ -9,7 +9,7 @@ La Amkantoj
 
 3
 00:02:42,800 --> 00:02:46,580
-Parto Unu: La Foriro
+<b>Parto Unu: La Foriro</b>
 
 4
 00:02:46,660 --> 00:02:49,390
@@ -21,15 +21,15 @@ Pardonu, mi estis tuj malantaŭ ri.
 
 6
 00:03:09,880 --> 00:03:11,880
-Estas mi. Mi finfine estas kineje.
+Estas mi. Mi fine estas kineje.
 
 7
 00:03:12,660 --> 00:03:13,880
-Kion vi rigardos?
+Kion vi iras rigardi?
 
 8
 00:03:17,040 --> 00:03:19,190
-Nu serioze, kion vi rigardos?
+Ne serioze, kion vi iras rigardi?
 
 9
 00:03:19,970 --> 00:03:21,750
@@ -68,7 +68,7 @@ vi tedaĉas min!
 
 17
 00:03:59,960 --> 00:04:03,160
--Ĉu estas amo, aŭ kio?
+- Ĉu estas amo, aŭ kio?
 - Ho, vi estas impresa, Ismael.
 
 18
@@ -77,7 +77,7 @@ Vi legas en mi kiel en malfermita libro.
 
 19
 00:04:06,120 --> 00:04:07,760
-Mi retiras la demandon!
+Mi elmetas la demandon!
 
 20
 00:04:07,840 --> 00:04:09,920
@@ -93,12 +93,12 @@ tuta pruvo ke mi amas.
 
 23
 00:04:13,040 --> 00:04:16,140
-Kaj se mi amas, vi nur povas konkludi ke vin amas mi.
+Kaj se mi amas, vi nur povas konkludi ke mi amas vin.
 
 24
 00:04:16,240 --> 00:04:19,760
 do mi rifuzas eksprimi tion,
-ŝirmiĝante per enrevado...
+ŝirmiĝante per enrevado…
 
 25
 00:04:19,840 --> 00:04:21,600
@@ -124,15 +124,15 @@ Eklaboru! Mi ne restu dum horojn.
 
 30
 00:04:29,880 --> 00:04:33,000
-Mi scias! Ŝi konsentis kiam vi plendis al ŝi
+Mi scias! Ŝi ne neis kiam vi plendis al ŝi
 
 31
 00:04:33,080 --> 00:04:35,840
-ke vi estas plej malgrandioza fikanto.
+ke vi estas la plej malgrandioza fikanto.
 
 32
 00:04:36,180 --> 00:04:38,100
-Mi tranĉos vian langon. Pli facilos.
+Mi tranĉu vian langon. Pli facilos.
 
 33
 00:04:38,260 --> 00:04:40,040
@@ -149,7 +149,7 @@ Vi eĉ ne estas cirkumcidita!
 
 36
 00:04:45,400 --> 00:04:48,420
-/!\ Ĉesu pri etaj judoj /!\
+Ĉesu pri la etaj judoj
 <i>and go to work</i>!
 
 37
@@ -158,312 +158,312 @@ Pardonu min. Ĉu vi havas fajrilon, mi petas.
 
 38
 00:05:13,890 --> 00:05:16,210
-Via fajro demandplena
+<i>Via fajro demandplena</i>
 
 39
 00:05:16,290 --> 00:05:18,500
-Pri kialoj kaj kieloj
+<i>Pri kialoj kaj kielo</i>
 
 40
 00:05:18,550 --> 00:05:21,300
-De mia koro kaj ĝiaj kialoj
+<i>De mia koro kaj ĝiaj kialoj</i>
 
 41
 00:05:21,350 --> 00:05:23,270
-Ne trovas respondojn.
+<i>Ne trovas respondojn.</i>
 
 42
 00:05:23,280 --> 00:05:25,110
-Ne mankas al mi
+<i>Ne mankas al mi</i>
 
 43
 00:05:26,050 --> 00:05:28,480
-Bonajn kialojn por ami vin.
+<i>Bonaj kialoj por ami vin.</i>
 
 44
 00:05:28,610 --> 00:05:29,960
-Mi ne scias
+<i>Mi ne scias</i>
 
 45
 00:05:30,040 --> 00:05:32,450
-Kial doni ilin al vi.
+<i>Kial doni ilin al vi.</i>
 
 46
 00:05:33,330 --> 00:05:35,880
-Miajn bonajn kialojn por ami vin
+<i>Miajn bonajn kialojn por ami vin</i>
 
 47
 00:05:35,990 --> 00:05:37,960
-Kial doni ilin al vi.
+<i>Kial doni ilin al vi.</i>
 
 48
 00:05:40,840 --> 00:05:43,440
-Ĉu via bela pugo
+<i>Ĉu via bela pugo</i>
 
 49
 00:05:43,560 --> 00:05:45,640
-La timo pri soleco
+<i>La timo pri soleco?</i>
 
 50
 00:05:45,700 --> 00:05:48,210
-Hazardo kaj maldiligento
+<i>Hazardo kaj maldiligento</i>
 
 51
 00:05:48,520 --> 00:05:50,200
-Aŭ malbona kutimo.
+<i>Aŭ malbona kutimo?</i>
 
 52
 00:05:50,400 --> 00:05:51,910
-Ne mankas al mi
+<i>Ne mankas al mi</i>
 
 53
 00:05:51,960 --> 00:05:53,270
-(Kial prisilenti ilin?)
+<i>(Kial prisilenti ilin?)</i>
 
 54
 00:05:53,400 --> 00:05:55,160
-Bonajn kialojn por ami vin
+<i>Bonaj kialoj por ami vin</i>
 
 55
 00:05:55,330 --> 00:05:56,690
-Mi ne scias
+<i>Mi ne scias</i>
 
 56
 00:05:56,800 --> 00:05:59,240
-kial doni ilin al vi.
+<i>kial doni ilin al vi.</i>
 
 57
 00:06:00,370 --> 00:06:02,720
-Viajn bonajn kialojn por ami min.
+<i>Viajn bonajn kialojn por ami min.</i>
 
 58
 00:06:02,800 --> 00:06:04,420
-(Kial doni ilin al mi?)
+<i>(Kial doni ilin al mi?)</i>
 
 59
 00:06:17,640 --> 00:06:19,320
-Mia eta anĝelo,
+<i>Mia eta anĝelo,</i>
 
 60
 00:06:19,970 --> 00:06:22,850
-Volus ke mi kantu iliajn laŭdojn
+<i>Volas ke mi kantu iliajn laŭdojn</i>
 
 61
 00:06:23,250 --> 00:06:26,800
-Gloria
+<i>Gloria</i>
 
 62
 00:06:26,900 --> 00:06:29,730
-Mia sankta relikvo
+<i>Mia sankta relikvo</i>
 
 63
 00:06:29,830 --> 00:06:33,030
-Postulas ŝian altan kanton.
+<i>Postulas ŝian altan kanton.</i>
 
 64
 00:06:33,140 --> 00:06:36,690
-Hallelujah
+<i>Hallelujah</i>
 
 65
 00:06:42,100 --> 00:06:44,680
-Eble kaŭze de via odoro
+<i>Eble pro via odoro</i>
 
 66
 00:06:44,770 --> 00:06:47,060
-De via maniero ekdormi
+<i>via maniero ekdormi</i>
 
 67
 00:06:47,160 --> 00:06:49,640
-Eble ankaŭ pri via fratino,
+<i>Eble ankaŭ pro via fratino,</i>
 
 68
 00:06:49,750 --> 00:06:51,490
-Via mono aŭ ankoraŭ plej aĉe
+<i>Via mono aŭ ankoraŭ plej aĉe</i>
 
 69
 00:06:51,640 --> 00:06:53,190
-Ne mankas al mi
+<i>Ne mankas al mi</i>
 
 70
 00:06:53,270 --> 00:06:54,370
-(Kial prisilenti ilin?)
+<i>(Kial prisilenti ilin?)</i>
 
 71
 00:06:54,450 --> 00:06:56,630
-Bonajn kialojn por ami vin
+<i>Bonaj kialoj por ami vin</i>
 
 72
 00:07:18,370 --> 00:07:21,010
-Unu perdita ĵuro
-Du hazardaj paroloj
+<i>Unu perdita ĵuro</i>
+<i>Du hazardaj paroloj</i>
 
 73
 00:07:21,110 --> 00:07:23,810
-Tri kalsonoj
-forgesitaj surgrunde
+<i>Tri kalsonoj</i>
+<i>forgesitaj surgrunde</i>
 
 74
 00:07:23,880 --> 00:07:26,280
-Iom da via buŝo, ofte aĉa
+<i>Iom da via buŝo, ofte aĉa</i>
 
 75
 00:07:26,400 --> 00:07:29,160
-Kvar haroj en la duŝejo
-Vi pli bone vivus sole.
+<i>Kvar haroj en la duŝejo</i>
+<i>Vi pli bone vivus sole.</i>
 
 76
 00:07:29,240 --> 00:07:31,000
-Miaj eraroj
+<i>Viaj eraroj</i>
 
 77
 00:07:31,760 --> 00:07:33,350
-Viaj juĝoj
+<i>Miaj juĝoj</i>
 
 78
 00:07:34,200 --> 00:07:35,860
-Miaj sakroj
+<i>Miaj sakroj</i>
 
 79
 00:07:36,950 --> 00:07:37,970
-Viaj vagoj
+<i>Viaj vagoj</i>
 
 80
 00:07:38,100 --> 00:07:38,960
-Kaj poste
+<i>Kaj poste</i>
 
 81
 00:07:41,080 --> 00:07:43,440
-Poste, ni revas pri antaŭe.
+<i>Poste, ni revos pri antaŭe.</i>
 
 82
 00:07:44,610 --> 00:07:47,080
-Neniu sekrete, ĉiu perdiĝas.
+<i>Neniu sekrete, ĉiu perdiĝas.</i>
 
 83
 00:07:47,510 --> 00:07:49,570
-Kiel oni ŝajnas
+<i>Kiel oni ŝajnas</i>
 
 84
 00:07:50,230 --> 00:07:52,320
-Je la horo de la inventaro?
+<i>Je la horo de la inventaro?</i>
 
 85
 00:07:52,520 --> 00:07:54,720
-Kiel oni ŝajnas
+<i>Kiel oni ŝajnas</i>
 
 86
 00:07:57,830 --> 00:08:00,100
-Kiel oni ŝajnas
+<i>Kiel oni ŝajnas</i>
 
 87
 00:08:04,710 --> 00:08:07,120
-Kvin minutoj
-Ni pli bone faros
+<i>Kvin minutoj</i>
+<i>Ni pli bone faros morgaŭ</i>
 
 88
 00:08:07,240 --> 00:08:09,810
-Ses malbonaj fotoj
-De sekso aŭ mamo
+<i>Ses malbonaj fotoj</i>
+<i>De sekso aŭ mamo</i>
 
 89
 00:08:09,890 --> 00:08:12,360
-Sep alvokoj de via patrino
-Ĉiuhore mesaĝoj
+<i>Sep alvokoj de via patrino</i>
+<i>Ĉiuhore mesaĝo</i>
 
 90
 00:08:12,440 --> 00:08:15,250
-Vi povus respondi
-Tio lacigas min
+<i>Vi povus respondi</i>
+<i>Tio lacigas min</i>
 
 91
 00:08:15,360 --> 00:08:16,920
-Provi pli
+<i>Provi pli</i>
 
 92
 00:08:17,830 --> 00:08:19,380
-Por neniu
+<i>Por neniu</i>
 
 93
 00:08:20,370 --> 00:08:21,880
-Tro da sufero
+<i>Tro da sufero</i>
 
 94
 00:08:22,790 --> 00:08:23,960
-Por la bono
+<i>Por la bono</i>
 
 95
 00:08:24,100 --> 00:08:26,320
-Finfine
+<i>Fine</i>
 
 96
 00:08:27,190 --> 00:08:29,720
-Kara, kiom vi amas min?
+<i>Kara, kiom vi amas min?</i>
 
 97
 00:08:30,320 --> 00:08:33,170
-Neniu sekrete, ĉiu perdiĝas.
+<i>Neniu sekrete, ĉiu perdiĝas.</i>
 
 98
 00:08:33,480 --> 00:08:35,730
-Kiel oni ŝajnas
+<i>Kiel oni ŝajnas</i>
 
 99
 00:08:35,960 --> 00:08:38,420
-Je la horo de la inventaro?
+<i>Je la horo de la inventaro?</i>
 
 100
 00:08:38,690 --> 00:08:41,120
-Kiel oni ŝajnas
+<i>Kiel oni ŝajnas</i>
 
 101
 00:08:41,350 --> 00:08:43,670
-Kiel oni ŝajnas
+<i>Kiel oni ŝajnas</i>
 
 102
 00:08:43,750 --> 00:08:46,240
-Kiel oni ŝajnas
+<i>Kiel oni ŝajnas</i>
 
 103
 00:08:46,320 --> 00:08:48,870
-Kiel oni ŝajnas
+<i>Kiel oni ŝajnas</i>
 
 104
 00:08:50,360 --> 00:08:53,250
-Ok jaroj por ami vin
-Komencis ĵaŭde
+<i>Ok jaroj amante vin</i>
+<i>Komencis ĵaŭde</i>
 
 105
 00:08:53,330 --> 00:08:55,920
-La klaso B
-Neniu letero poste.
+<i>La klaso B</i>
+<i>Neniu letero poste.</i>
 
 106
 00:08:55,990 --> 00:08:58,600
-Naŭ, mi ne scias, mi ne mensogos
+<i>Naŭ, mi ne scias, mi ne mensogos</i>
 
 107
 00:08:58,690 --> 00:09:01,540
-Nun kelkfoje, vi naŭzas min
+<i>Nun kelkfoje, vi naŭzas min</i>
 
 108
 00:09:01,590 --> 00:09:03,250
-Kion restas
+<i>Kion restas</i>
 
 109
 00:09:03,890 --> 00:09:05,730
-Al vi de mi
+<i>Al vi de mi</i>
 
 110
 00:09:06,480 --> 00:09:08,070
-Estis plej bone
+<i>Estis plej bone</i>
 
 111
 00:09:08,770 --> 00:09:10,130
-Lasu ĝin tiel
+<i>Lasu ĝin tiel</i>
 
 112
 00:09:10,400 --> 00:09:11,840
-Diru al mi...
+<i>Diru al mi…</i>
 
 113
 00:09:26,360 --> 00:09:28,230
@@ -490,8 +490,8 @@ Aparta volupto
 Politiko
 
 119
-00:10:25,940 --> 00:10:28,290
-Mi ne certas ke ni laŭordas.
+00:10:25,940 --> 00:10:30,290
+Mi ne certas ke ni laŭordas. Jen!
 
 120
 00:10:40,150 --> 00:10:42,420
@@ -499,11 +499,13 @@ Pardonu min, Ismael.
 
 121
 00:10:46,120 --> 00:10:48,470
-Julie, vi konsentas, ĉu ne? - Jes
+- Julie, vi konsentas, ĉu ne?
+- Jes!
 
 122
 00:10:52,740 --> 00:10:54,320
-Ĉu mi malŝaltu? - Jes
+- Ĉu mi malŝaltu?
+- Jes.
 
 123
 00:11:01,680 --> 00:11:04,610
@@ -517,8 +519,8 @@ Julie, vi konsentas, ĉu ne? - Jes
 
 125
 00:11:07,670 --> 00:11:09,460
-- Ĉu taŭgas al vi?
-- Jes ja...
+- Ĉu ĝi taŭgas al vi?
+- Jes ja…
 
 126
 00:11:09,570 --> 00:11:11,700
@@ -544,7 +546,7 @@ Estas ia intrautera kontraŭkoncipilo.
 
 131
 00:11:20,710 --> 00:11:22,770
-Io ajn. Vi ne plu seksumas kun iĉoj.
+Io ajn! Vi ne plu seksumas kun iĉoj.
 
 132
 00:11:22,820 --> 00:11:24,710
@@ -557,7 +559,7 @@ Mi tamen kontrolu.
 
 134
 00:11:27,780 --> 00:11:31,330
-Mi praktikas nesekson, vi ja scias.
+Mi praktikas ne-sekson, vi ja scias.
 Tian sekson.
 
 135
@@ -568,7 +570,7 @@ Tian sekson.
 136
 00:11:33,910 --> 00:11:36,920
 Vi estas kiel mia fratino,
-tio ne vere estas sekso...
+ne vere estas sekso…
 
 137
 00:11:59,940 --> 00:12:01,220
@@ -581,7 +583,7 @@ egoismo foje estas morala."
 
 139
 00:12:04,710 --> 00:12:06,060
-Tiom naŭze.
+Tiom naŭze!
 
 140
 00:12:06,180 --> 00:12:07,980
@@ -614,7 +616,7 @@ Mi ne certas ke tio trankviligas min.
 
 147
 00:12:32,570 --> 00:12:34,170
-Ĉu vi amantas min?
+Ĉu vi enamiĝas min?
 
 148
 00:12:34,380 --> 00:12:35,780
@@ -630,16 +632,16 @@ Jes, mi amas vin!
 
 151
 00:12:39,450 --> 00:12:43,030
-- Krom, krom mi...
+- Krom, krom mi…
 - Fikiĝu!
 
 152
 00:12:43,110 --> 00:12:44,840
-Ho, malgrandioze...
+Ho, malgrandioze…
 
 153
 00:12:44,920 --> 00:12:47,030
-Afliktinde...
+Afliktinde…
 
 154
 00:12:48,090 --> 00:12:49,850
@@ -651,16 +653,16 @@ mi ne kaŭcias ion, kio terure naŭzas min.
 
 156
 00:12:52,790 --> 00:12:54,680
-Tiu sentimentaleco
+Tiu sentimentaleco…
 
 157
 00:12:55,160 --> 00:12:57,500
-Vi ekis, kun viaj neseksaĵoj
+Vi ekis, kun viaj ne-seksaĵoj
 
 158
 00:12:57,990 --> 00:13:01,160
-Nesekso ne enlasas
-tiom idilia romantikismo.
+Ne-sekso ne enlasas
+tiom idilian romantikismon.
 
 159
 00:13:01,300 --> 00:13:03,000
@@ -668,16 +670,16 @@ Ne provoku min, mi estas la malo de romantika.
 
 160
 00:13:03,080 --> 00:13:05,290
-Mi scias, vi ĉiam estas la malo de kio vi klamas
+Mi scias, vi ĉiam estas la malo de kio vi klamas.
 
 161
 00:13:05,460 --> 00:13:07,300
-La malo de dunganto, la malo de juda...
+La malo de dunganto, la malo de judo…
 
 162
 00:13:07,350 --> 00:13:10,900
 Ĉesu pri tio! Mi neniam pretendis
-la fakton esti juda
+la fakton esti juda.
 
 163
 00:13:11,580 --> 00:13:14,630
@@ -773,19 +775,19 @@ mi pasigas lin de feliĉo al malespero.
 
 185
 00:14:36,820 --> 00:14:37,940
-Dankon...
+Dankon…
 
 186
 00:14:50,020 --> 00:14:52,170
-Ŝajnas kiel Ismael iomete tedas vin
+Ŝajnas kiel Ismael iomete tedas vin.
 
 187
 00:14:52,360 --> 00:14:54,700
-Jes, li multe tedas min
+Jes, li multe tedas min.
 
 188
 00:14:58,900 --> 00:15:01,270
-Kaj vi, ĉu vi revidis Cedric?
+Kaj vi, ĉu vi revidis Cédric?
 
 189
 00:15:01,750 --> 00:15:03,700
@@ -798,12 +800,12 @@ Mi bone scias tion.
 
 191
 00:15:07,900 --> 00:15:11,420
-Li diras ke li atendas ke lia filino iru gimnazie
+Li diras ke li atendas ke sia filino iru gimnazie
 Post du jaroj, teorie.
 
 192
-00:15:13,240 --> 00:15:15,210
-Se la stutulino ne refaras klasjaron...
+00:15:13,240 --> 00:15:15,410
+Se la stutulino ne refaras klasjaron…
 
 193
 00:15:16,600 --> 00:15:18,570
@@ -830,7 +832,7 @@ Ne, sed li trudas al mi
 
 198
 00:15:34,970 --> 00:15:38,000
-Ni komencis aferon triope, kaj...
+Ni komencis aferon triope, kaj…
 
 199
 00:15:38,440 --> 00:15:41,100
@@ -909,7 +911,7 @@ Mi ne bezonis tion, verŝajne.
 
 217
 00:16:31,760 --> 00:16:34,570
-Ekde kelkaj semajnoj.
+De kelkaj semajnoj.
 Unu monato.
 
 218
@@ -918,12 +920,12 @@ Unu monato?!
 
 219
 00:16:38,160 --> 00:16:41,020
-- Mi ne volas sentakti, sed...
+- Mi ne volas sentakti, sed…
 - Bonege, ne sentaktu.
 
 220
 00:16:41,400 --> 00:16:43,230
-Mi ne kaŝas al vi, ke mi iomete surprizas...
+Mi ne kaŝas al vi, ke mi iomete surprizas…
 
 221
 00:16:45,680 --> 00:16:47,980
@@ -939,7 +941,7 @@ Nu, ĉu tiu Alice havas viajn hejmajn ŝlosilojn?
 
 224
 00:16:52,230 --> 00:16:54,740
-Panjo...
+Panjo…
 Vi spionis!
 
 225
@@ -960,8 +962,8 @@ Kia ĝi estas?
 
 229
 00:17:02,640 --> 00:17:06,090
-Ja stranga.
-Kaj malfacila por dormi.
+Strange!
+Kaj malfacile por dormi.
 
 230
 00:17:07,480 --> 00:17:10,830
@@ -974,7 +976,7 @@ Kaj malfacilas dormi?
 
 232
 00:17:15,340 --> 00:17:17,690
-Jes, Alice havas terursonĝojn
+Jes, Alice havas sonĝaĉojn
 
 233
 00:17:17,770 --> 00:17:19,360
@@ -982,11 +984,11 @@ Tio ne helpas.
 
 234
 00:17:19,410 --> 00:17:20,800
-Kaj ŝi dormas meze...
+Kaj ŝi dormas meze…
 
 235
 00:17:20,950 --> 00:17:22,900
-Ni ne devus paroli pri tio, kara...
+Ni ne devus paroli pri tio, kara…
 
 236
 00:17:23,000 --> 00:17:25,220
@@ -1000,7 +1002,7 @@ ni ŝajne parolas pri tio
 
 238
 00:17:32,020 --> 00:17:33,410
-Mi ne komprenas...
+Mi ne komprenas…
 
 239
 00:17:33,450 --> 00:17:36,100
@@ -1035,7 +1037,7 @@ jes, jes, tio certas.
 
 246
 00:17:54,480 --> 00:17:56,270
-Ĉu devenis al vi nature?
+Ĉu ĝi venis al vi nature?
 
 247
 00:17:56,920 --> 00:17:58,550
@@ -1043,11 +1045,11 @@ Kio? La sekso?
 
 248
 00:17:58,620 --> 00:18:01,050
-Jes, la pozicioj...
+Jes, la pozicioj…
 
 249
 00:18:01,120 --> 00:18:02,100
-Mi...
+Mi…
 
 250
 00:18:02,220 --> 00:18:05,160
@@ -1055,7 +1057,7 @@ Mi...
 
 251
 00:18:05,280 --> 00:18:07,350
-Tio ne tro malfacilas panjo...
+Tio ne tro malfacilas panjo…
 
 252
 00:18:09,240 --> 00:18:11,910
@@ -1068,7 +1070,7 @@ Nu, ĉu vi antaŭe parolas pri kio okazos?
 
 254
 00:18:16,280 --> 00:18:19,590
-Ne, ne vere fakte.
+Ne, ne vere, fakte.
 
 255
 00:18:20,110 --> 00:18:23,140
@@ -1086,7 +1088,7 @@ Jam sufiĉe tiklas duope.
 258
 00:18:32,890 --> 00:18:38,230
 - Ĉu vi jam amoris kun ino?
-- Mi? Ne! Ne, ne...
+- Mi? Ne. Ne, ne…
 
 259
 00:18:38,850 --> 00:18:40,840
@@ -1094,7 +1096,7 @@ Jam sufiĉe tiklas duope.
 
 260
 00:18:41,080 --> 00:18:43,070
-Strangas...
+Strangas…
 
 261
 00:18:43,790 --> 00:18:45,780
@@ -1124,7 +1126,7 @@ Kaj tio reĝkuko estos brulfuŝita!
 267
 00:19:01,320 --> 00:19:04,630
 Nur, por konkludi, mi volas ke vi sciu
-ke mi daŭre amantas Ismaël
+ke mi daŭre enamiĝas na-Ismaël
 
 268
 00:19:04,740 --> 00:19:06,650
@@ -1140,7 +1142,7 @@ Ismaël kusenumas.
 
 271
 00:19:24,660 --> 00:19:26,890
-Ne bruu, mi bezonis unu horon por dormigi rin...
+Ne bruu, mi bezonis unu horon por dormigi rin…
 
 272
 00:19:28,050 --> 00:19:29,840
@@ -1148,8 +1150,8 @@ La stultulo faras tion bone.
 
 273
 00:19:34,250 --> 00:19:37,680
-Oni iras ete vidi Jeanne?
-Oni iras vidi onjo Jeanne?
+Oni iras ete vidi na-Jeanne?
+Oni iras vidi onjon na-Jeanne?
 
 274
 00:19:38,090 --> 00:19:40,950
@@ -1157,7 +1159,7 @@ Oni ruktetos, kun onjo Jeanne?
 
 275
 00:19:41,800 --> 00:19:43,390
-Ri fiaĉas, tiu ĉi...
+Ri fiaĉas, tiu ĉi…
 
 276
 00:19:43,540 --> 00:19:45,080
@@ -1179,16 +1181,16 @@ Mi ne volas, ke vi diru ke ni friponis.
 280
 00:19:54,950 --> 00:19:58,620
 - Kaj kiu iros sub la tablon.
-- Ve, paĉjo, ne...
+- Ve, paĉjo, ne…
 
 281
 00:19:58,730 --> 00:20:02,470
-Mia eta finjo...
+Mia eta finjo…
 Por kiu estas tiu peco?
 
 282
 00:20:02,540 --> 00:20:04,240
-Tio ne estas tro amuza...
+Tio ne estas tro amuza…
 
 283
 00:20:04,320 --> 00:20:05,910
@@ -1228,12 +1230,12 @@ Ankaŭ vi.
 
 291
 00:20:34,330 --> 00:20:37,280
-Via afero estas tre ĝena...
+Via afero estas tre ĝena…
 Mi iras preni la kusenon.
 
 292
 00:20:37,410 --> 00:20:38,600
-Ĵaluzulo...
+Ĵaluzulo…
 
 293
 00:20:39,100 --> 00:20:40,890
@@ -1241,7 +1243,7 @@ Ismaël ne laboris dimanĉe antaŭe, ĉu ne?
 
 294
 00:20:41,440 --> 00:20:44,430
-/!\ Jes ja. Unu dimanĉon el du. /!\
+Jes ja. Ĉiu dua dimanĉo.
 
 295
 00:20:49,490 --> 00:20:53,000
@@ -1278,67 +1280,67 @@ Li trapasos ĝin nur por tedi min.
 
 302
 00:21:15,450 --> 00:21:18,990
-Pluvegas sur la genio
+<i>Pluvegas sur la genio</i>
 
 303
 00:21:19,260 --> 00:21:22,330
-De la <i>Place de la Bastille</i>
+<i>De la </i>Place de la Bastille
 
 304
 00:21:22,890 --> 00:21:26,400
-Ni paŝas sub griza cielo
+<i>Ni paŝas sub griza cielo</i>
 
 305
 00:21:26,550 --> 00:21:30,220
-Traigita per miloj da nadloj
+<i>Traigita per miloj da nadloj</i>
 
 306
 00:21:30,350 --> 00:21:33,890
-Pluvegas sur la genio
+<i>Pluvegas sur la genio</i>
 
 307
 00:21:34,040 --> 00:21:37,870
-La nuboj, tro dikaj falas
+<i>La nuboj, tro dikaj falas</i>
 
 308
 00:21:37,970 --> 00:21:41,560
-Akvo por homoj de Parizo
+<i>Akvo por la homoj de Parizo</i>
 
 309
 00:21:41,660 --> 00:21:44,730
-Por la nuda anĝelo sur la kolono
+<i>Por la nuda anĝelo sur la kolono</i>
 
 310
 00:21:44,760 --> 00:21:46,590
-Foraĵe en niaj fenestroj
+<i>Foraĵe en niaj fenestroj</i>
 
 311
 00:21:46,660 --> 00:21:48,450
-Neniu moviĝas nek vivas
+<i>Neniu moviĝas nek vivas</i>
 
 312
 00:21:48,500 --> 00:21:50,150
-Parizo ŝajne forsvenas
+<i>Parizo ŝajne forsvenas</i>
 
 313
 00:21:50,300 --> 00:21:52,170
-Diluita en pluvakvo
+<i>Diluita en pluvakvo</i>
 
 314
 00:21:52,240 --> 00:21:53,720
-Foraĵe la cielo fadas
+<i>Foraĵe la cielo fadas</i>
 
 315
 00:21:53,760 --> 00:21:55,870
-La roja anĝelo desegniĝas
+<i>La roja anĝelo desegniĝas</i>
 
 316
 00:21:55,990 --> 00:21:57,420
-Oni volus ĉiame ami
+<i>Oni volus ĉiame ami</i>
 
 317
 00:21:57,520 --> 00:22:00,090
-Sub tiu senfina pluvo
+<i>Sub tiu senfina pluvo</i>
 
 318
 00:22:00,250 --> 00:22:01,560
@@ -1350,99 +1352,99 @@ Mi iras.
 
 320
 00:22:14,630 --> 00:22:17,660
-Daŭre pluvas sur la genio
+<i>Daŭre pluvas sur la genio</i>
 
 321
 00:22:18,440 --> 00:22:22,060
-De la <i>Place de la Bastille</i>
+<i>De la </i>Place de la Bastille
 
 322
 00:22:22,140 --> 00:22:25,760
-Trinki teon tutposttagmeze
+<i>Trinki teon tutposttagmeze</i>
 
 323
 00:22:25,800 --> 00:22:29,210
-En tiuj kamomilaj dimanĉoj
+<i>En tiuj kamomilaj dimanĉoj</i>
 
 324
 00:22:29,300 --> 00:22:32,890
-Pluvegas sur la genio
+<i>Pluvegas sur la genio</i>
 
 325
 00:22:32,940 --> 00:22:36,250
-Kiu kredus ke tiom malmulta akvo
+<i>Kiu kredus ke tiom malmulta akvo</i>
 
 326
 00:22:36,660 --> 00:22:40,250
-Fuĝigos la parizanoj
+<i>Fuĝigos la parizanojn</i>
 
 327
 00:22:40,350 --> 00:22:43,620
-Lasante la anĝelon tro sole, kaj tro alte.
+<i>Lasante la anĝelon tro sole, kaj tro alte.</i>
 
 328
 00:22:43,750 --> 00:22:45,380
-Foraĵe en niaj fenestroj
+<i>Foraĵe en niaj fenestroj</i>
 
 329
 00:22:45,470 --> 00:22:47,260
-Neniu moviĝas nek vivas
+<i>Neniu moviĝas nek vivas</i>
 
 330
 00:22:47,480 --> 00:22:49,270
-Parizo ŝajne forsvenas
+<i>Parizo ŝajne forsvenas</i>
 
 331
 00:22:49,370 --> 00:22:51,160
-Diluita en pluvakvo
+<i>Diluita en pluvakvo</i>
 
 332
 00:22:51,200 --> 00:22:52,990
-Foraĵe la cielo fadas
+<i>Foraĵe la cielo fadas</i>
 
 333
 00:22:53,150 --> 00:22:55,100
-La roja anĝelo desegniĝas
+<i>La roja anĝelo desegniĝas</i>
 
 334
 00:22:55,190 --> 00:22:56,980
-Oni volus ĉiame ami
+<i>Oni volus ĉiame ami</i>
 
 335
 00:22:57,050 --> 00:22:59,610
-Sub tiu senfina pluvo
+<i>Sub tiu senfina pluvo</i>
 
 336
 00:23:28,470 --> 00:23:31,990
-Daŭre pluvas sur la genio
+<i>Daŭre pluvas sur la genio</i>
 
 337
 00:23:32,280 --> 00:23:35,460
-De la <i>Place de la Bastille</i>
+<i>De la </i>Place de la Bastille
 
 338
 00:23:35,580 --> 00:23:39,120
-Ni enlitiĝas antaŭ noktomezo
+<i>Ni enlitiĝas antaŭ noktomezo</i>
 
 339
 00:23:39,210 --> 00:23:43,080
-En varmaj drapoj, kiujn oni disigas
+<i>En varmaj drapoj, kiujn oni disigas</i>
 
 340
 00:23:43,160 --> 00:23:46,590
-Daŭre pluvas sur la genio
+<i>Daŭre pluvas sur la genio</i>
 
 341
 00:23:46,690 --> 00:23:50,390
-Ni eliras familajn manĝojn
+<i>Ni eliras familiajn manĝojn</i>
 
 342
 00:23:50,500 --> 00:23:54,090
-La roja anĝelo en la nokto
+<i>La roja anĝelo en la nokto</i>
 
 343
 00:23:54,140 --> 00:23:58,450
-Malfermas siajn flugilojn sur la <i>Bastille</i>.
+<i>Malfermas siajn flugilojn sur la </i>Bastille.
 
 344
 00:24:17,400 --> 00:24:19,390
@@ -1450,7 +1452,7 @@ Vi aĉetis novan ringon?
 
 345
 00:24:20,030 --> 00:24:21,820
-Mi donacis ĝin al ŝi
+Mi ofertis ĝin al ŝi
 
 346
 00:24:22,720 --> 00:24:25,240
@@ -1468,7 +1470,7 @@ Tio estas serioza peko kontraŭ nia kontrakto
 
 349
 00:24:30,190 --> 00:24:32,460
-/!\ Viaj intencoj klaras /!\
+Viaj intencoj klaras
 
 350
 00:24:32,840 --> 00:24:35,470
@@ -1511,11 +1513,12 @@ Kaj viaj dentoj.
 
 359
 00:24:56,500 --> 00:24:58,090
-/!\ Ĉu vi frenezas? /!\
+Ĉu vi frenezas?
 
 360
 00:25:00,680 --> 00:25:02,470
-Tie la trojanoj
+- Bonan vesperon
+- Jen la trojanoj
 
 361
 00:25:08,070 --> 00:25:09,700
@@ -1539,213 +1542,213 @@ Dankon!
 
 366
 00:25:29,820 --> 00:25:30,710
-Fietulo,
+<i>Fiuleto,</i>
 
 367
 00:25:30,850 --> 00:25:32,280
-Viaj intencoj klaras
+<i>Viaj intencoj klaras</i>
 
 368
 00:25:32,560 --> 00:25:34,150
-Vi volas ĉiun senpune
+<i>Vi volas ĉiun senpune</i>
 
 369
 00:25:35,020 --> 00:25:37,170
-La buteron kaj la pugon de la buteristino
+<i>La buteron kaj la pugon de la buteristino</i>
 
 370
 00:25:37,680 --> 00:25:39,950
-Du por la prezo de unu
+<i>Du por la prezo de unu</i>
 
 371
 00:25:40,200 --> 00:25:42,550
-Aĉulino, vi estas tiel vulgara
+<i>Aĉulino, vi estas tiom vulgara</i>
 
 372
 00:25:42,880 --> 00:25:45,180
-Estas malbela el via buŝo
+<i>Estas malbela en via buŝo</i>
 
 373
 00:25:45,530 --> 00:25:48,320
-Tiel indiferentas min via ĵaluzo
+<i>Tiom indiferentas al mi via ĵaluzo</i>
 
 374
 00:25:48,520 --> 00:25:50,550
-Vi ankaŭ seksumas
+<i>Vi ankaŭ seksumas</i>
 
 375
 00:25:50,870 --> 00:25:53,260
-Mi estas la ponto sur la rivero
+<i>Mi estas la ponto sur la rivero</i>
 
 376
 00:25:53,520 --> 00:25:55,150
-Kiu iras de vi al vi
+<i>Kiu iras de vi al vi</i>
 
 377
 00:25:55,820 --> 00:25:58,530
-Trairu min, malgrava afero...
+<i>Trairu min, malgrava afero…</i>
 
 378
 00:26:00,050 --> 00:26:02,080
-Kisu vin sur mi
+<i>Kisu vin sur mi</i>
 
 379
 00:26:05,110 --> 00:26:07,100
-Mi nur amas vin
+<i>Mi nur amas vin</i>
 
 380
 00:26:10,220 --> 00:26:11,650
-Mi nur amas vin
+<i>Mi nur amas vin</i>
 
 381
 00:26:11,720 --> 00:26:14,310
-Fiuleto, malvirtuleto,
+<i>Fiuleto, malvirtuleto,</i>
 
 382
 00:26:14,420 --> 00:26:16,930
-Kien vi metis viajn fingrojn?
+<i>Kien vi metis viajn fingrojn?</i>
 
 383
 00:26:17,010 --> 00:26:19,400
-De kie venas tiujn fremdajn odorojn?
+<i>De kie venas tiujn fremdajn odorojn?</i>
 
 384
 00:26:19,670 --> 00:26:22,020
-Ja ne estas miaj
+<i>Certe ne de mi</i>
 
 385
 00:26:22,130 --> 00:26:24,590
-Aĉulino, fikiĝu
+<i>Aĉulino, fikiĝu</i>
 
 386
 00:26:24,750 --> 00:26:27,270
-Vi ne estas malpli violenta
+<i>Vi ne estas malpli violenta</i>
 
 387
 00:26:27,390 --> 00:26:29,820
-Vi ne estas malpli adulta
+<i>Vi ne estas malpli adulta</i>
 
 388
 00:26:30,160 --> 00:26:32,310
-Vidu kiom ŝi tuŝas vin
+<i>Vidu kiom ŝi tuŝas vin</i>
 
 389
 00:26:32,690 --> 00:26:35,070
-Mi estas la ponto sur la rivero
+<i>Mi estas la ponto sur la rivero</i>
 
 390
 00:26:35,180 --> 00:26:37,640
-Kiu iras de vi al vi
+<i>Kiu iras de vi al vi</i>
 
 391
 00:26:37,860 --> 00:26:40,420
-Surpasi min, malgrava afero
+<i>Surpasi min, malgrava afero</i>
 
 392
 00:26:41,710 --> 00:26:43,700
-superpasi min, kial ne
+<i>superpasi min, kial ne</i>
 
 393
 00:26:46,820 --> 00:26:51,300
-Mi nur amas vin
+<i>Mi nur amas vin</i>
 
 394
 00:26:53,560 --> 00:26:56,120
-Fiuleto, kiun vi preferas
+<i>Fiuleto, kiun vi preferas</i>
 
 395
 00:26:56,200 --> 00:26:58,190
-Kiun vi volas, faru vian elekton
+<i>Kiun vi volas, faru vian elekton</i>
 
 396
 00:26:58,590 --> 00:27:00,970
-La tiamo, la nova epoko
+<i>La tiamo, la nova epoko</i>
 
 397
 00:27:01,680 --> 00:27:03,910
-Estas ŝi aŭ mi
+<i>Estas ŝi aŭ mi</i>
 
 398
 00:27:04,040 --> 00:27:06,670
-Aĉulino, kiun mi preferas
+<i>Aĉulino, kiun mi preferas</i>
 
 399
 00:27:06,830 --> 00:27:08,700
-Vi scias pli bone ol mi
+<i>Vi scias pli bone ol mi</i>
 
 400
 00:27:09,320 --> 00:27:11,620
-Mi preferas ke vi estu facilanema
+<i>Mi preferas ke vi estu facilanema</i>
 
 401
 00:27:12,390 --> 00:27:13,580
-En tiu Troja milito
+<i>En la Troja milito</i>
 
 402
 00:27:14,540 --> 00:27:17,130
-Mi estas la ponto sur la rivero
+<i>Mi estas la ponto sur la rivero</i>
 
 403
 00:27:17,200 --> 00:27:19,320
-Viaj militoj lasas min indiferentan
+<i>Viaj militoj lasas min indiferentan</i>
 
 404
 00:27:19,760 --> 00:27:22,470
-Surpaŝu min, kion mi pavas fari
+<i>Surpaŝu min, kion mi pavas fari</i>
 
 405
 00:27:23,720 --> 00:27:25,870
-Mi ne movas el tie
+<i>Mi ne movas el tie</i>
 
 406
 00:27:28,760 --> 00:27:30,550
-Mi nur amas vin
+<i>Mi nur amas vin</i>
 
 407
 00:27:59,700 --> 00:28:02,970
-Parizo jam ŝajnas tro for
+<i>Parizo jam ŝajnas tro for</i>
 
 408
 00:28:03,040 --> 00:28:05,630
-Parizo ŝajnas malgranda
+<i>Parizo ŝajnas malgranda</i>
 
 409
 00:28:05,650 --> 00:28:08,880
-Ni fartos bonege
+<i>Ni fartos bonege</i>
 
 410
 00:28:08,910 --> 00:28:11,820
-Perdataj en la <i>City</i>
+<i>Perdataj en la </i>City
 
 411
 00:28:12,100 --> 00:28:14,770
-Kial gravas
+<i>Kial gravas</i>
 
 412
 00:28:17,100 --> 00:28:20,610
-se pluvas sur JFK
+<i>se pluvas sur JFK</i>
 
 413
 00:28:23,630 --> 00:28:26,080
-Mi timas dum la landigo
+<i>Mi timas dum la landigo</i>
 
 414
 00:28:26,810 --> 00:28:27,400
-Mi timas dum la landigo
+<i>Mi timas dum la landigo</i>
 - Ĉu mi rajtas preni vian manon?
 
 415
 00:28:27,400 --> 00:28:28,730
-Sed vi tenas mian manon
+<i>Sed vi tenas mian manon</i>
 - Ĉu mi rajtas preni vian manon?
 
 416
 00:28:28,730 --> 00:28:29,460
-Sed vi tenas mian manon
+<i>Sed vi tenas mian manon</i>
 
 417
 00:28:29,460 --> 00:28:29,630
-Sed vi tenas mian manon
+<i>Sed vi tenas mian manon</i>
 - Por kio?
 
 418
@@ -1754,47 +1757,47 @@ Sed vi tenas mian manon
 
 419
 00:28:30,280 --> 00:28:30,570
-Do kiel saĝa infano
+<i>Do kiel saĝa infano</i>
 - Por kio?
 
 420
 00:28:30,570 --> 00:28:32,020
-Do kiel saĝa infano
+<i>Do kiel saĝa infano</i>
 
 421
 00:28:32,020 --> 00:28:32,960
-Do kiel saĝa infano
-- Se tio tedas vin, estas aliaj homoj...
+<i>Do kiel saĝa infano</i>
+- Se tio tedas vin, estas aliaj homoj…
 
 422
 00:28:32,960 --> 00:28:33,360
-Se tio tedas vin, estas aliaj homoj...
+Se tio tedas vin, estas aliaj homoj…
 
 423
 00:28:33,360 --> 00:28:33,720
-Mi ploros silente
-- Se tio tedas vin, estas aliaj homoj...
+<i>Mi ploros silente</i>
+- Se tio tedas vin, estas aliaj homoj…
 
 424
 00:28:33,720 --> 00:28:34,720
-Mi ploros silente
+<i>Mi ploros silente</i>
 - Jes, jes
 
 425
 00:28:34,720 --> 00:28:35,690
-Mi ploros silente
+<i>Mi ploros silente</i>
 
 426
 00:28:36,760 --> 00:28:38,590
-Kial gravas
+<i>Kial gravas</i>
 
 427
 00:28:41,840 --> 00:28:45,310
-La mokindeco se vi estas kun mi
+<i>La mokindeco se vi estas kun mi</i>
 
 428
 00:28:48,210 --> 00:28:50,800
-Sur la ponto de Brooklyn
+<i>Sur la ponto de</i> Brooklyn
 
 429
 00:28:53,600 --> 00:28:54,630
@@ -1802,7 +1805,7 @@ Tuŝu mian manon.
 
 430
 00:28:54,680 --> 00:28:57,060
-Mia koramikino
+<i>Mia koramikino</i>
 
 431
 00:28:58,440 --> 00:29:00,350
@@ -1810,23 +1813,23 @@ Mi tuj revenas
 
 432
 00:29:00,400 --> 00:29:03,270
-Ridis fronte al la konstruaĵoj
+<i>Ridis fronte al la konstruaĵoj</i>
 
 433
 00:29:06,140 --> 00:29:08,770
-Kiel ĝoja infano
+<i>Kiel infano ĝoja</i>
 
 434
 00:29:12,190 --> 00:29:15,500
-Aprilo lasas sur Manhattan
+<i>Aprilo lasas sur </i>Manhattan
 
 435
 00:29:15,540 --> 00:29:17,650
-Sunon kaj bluecon
+<i>Sunon kaj bluecon</i>
 
 436
 00:29:18,230 --> 00:29:20,550
-Kiel daŭra eterno
+<i>Kiel daŭra eterno</i>
 
 437
 00:29:20,620 --> 00:29:22,630
@@ -1835,35 +1838,35 @@ Kiel daŭra eterno
 
 438
 00:29:22,670 --> 00:29:24,840
-Central Park, vi kaj mi
+<i>Central Park, vi kaj mi</i>
 
 439
 00:29:24,870 --> 00:29:27,740
-Kial gravas
+<i>Kial gravas</i>
 
 440
 00:29:28,780 --> 00:29:29,890
-Mi iras serĉi Julie.
+Mi iras serĉi na-Julie.
 
 441
 00:29:29,900 --> 00:29:33,210
-Ke la vento elportas vian koltukon
+<i>Ke la vento elportas vian koltukon</i>
 
 442
 00:29:36,140 --> 00:29:39,290
-Kiam Broadway ekmoviĝas
+<i>Kiam</i> Broadway <i>ekmoviĝas</i>
 
 443
 00:29:39,540 --> 00:29:42,330
-Ni dancas sur tegmento
+<i>Ni dancas sur tegmento</i>
 
 444
 00:29:42,430 --> 00:29:45,500
-De la <i>218, Adam Street</i>
+<i>De la </i>218, Adam Street
 
 445
 00:29:45,610 --> 00:29:47,800
-Mi, Robert, Vi Liza
+<i>Mi, Robert, Vi Liza</i>
 
 446
 00:29:47,840 --> 00:29:49,030
@@ -1930,8 +1933,9 @@ Mi alvokis vin ĉar ulino svenis.
 Jen ŝia koramiko.
 
 461
-00:31:22,150 --> 00:31:23,290
-Bonan vesperon.
+00:31:22,150 --> 00:31:25,290
+- Bonan vesperon.
+- Bonan vesperon.
 
 462
 00:31:27,600 --> 00:31:29,900
@@ -1939,7 +1943,7 @@ Julie. Julie Pommeraye.
 
 463
 00:31:30,440 --> 00:31:32,950
-P. O. du M.
+P. O. Du M.
 
 464
 00:31:34,010 --> 00:31:35,920
@@ -1972,12 +1976,13 @@ L. l. E. L.
 
 471
 00:31:52,270 --> 00:31:54,620
-Vi estis tie kiam ĝi okazis? - Jes
+- Vi estis tie kiam tiu okazis?
+- Jes.
 
 472
 00:31:57,610 --> 00:32:00,800
-/!\ Junulino 28-jara,
-kora kaj spira malŝalto /!\
+Junulino 28-jara,
+kora kaj spira malŝalto
 
 473
 00:32:00,990 --> 00:32:02,700
@@ -1985,15 +1990,15 @@ Glasgow 3.
 
 474
 00:32:02,730 --> 00:32:04,310
-/!\ Mi konektas la kardilo. /!\
+Mi konektas la kardilo.
 
 475
 00:32:04,360 --> 00:32:05,420
-/!\ Mi konektis intravejnilon /!\
+Konektu intravejnilon.
 
 476
 00:32:05,470 --> 00:32:09,250
-/!\ Nun estas la saturo  al 95 /!\
+La saturo estas al 95, nun.
 
 477
 00:32:09,880 --> 00:32:11,470
@@ -2021,11 +2026,13 @@ Mi iris preni niajn aĵojn
 
 483
 00:32:25,280 --> 00:32:27,820
-Ĉu vi drinkis, ĉi vespere? - Ne
+- Ĉu vi drinkis, ĉi vespere?
+- Ne
 
 484
 00:32:28,560 --> 00:32:30,150
-Ĉu vi uzis drogojn? - Ne
+- Ĉu vi uzis drogojn?
+- Ne
 
 485
 00:32:31,800 --> 00:32:35,500
@@ -2034,15 +2041,15 @@ Mi iris preni niajn aĵojn
 
 486
 00:32:37,680 --> 00:32:40,390
-/!\ Restu en la veturilo iomete, mi petas /!\
+Restu en la veturilo iomete, mi petas
 
 487
 00:33:01,320 --> 00:33:03,110
-Mi prenas la ŝultron
+Mi prenas la ŝultron.
 
 488
 00:33:08,440 --> 00:33:10,950
-Elmetu la intravejnilon
+Elmetu la intravejnilon.
 
 489
 00:33:11,000 --> 00:33:13,510
@@ -2070,7 +2077,7 @@ Levu.
 
 495
 00:33:50,600 --> 00:33:53,550
-Atentu pri ŝoko...
+Atentu pri ŝoko…
 Ŝoko!
 
 496
@@ -2088,8 +2095,8 @@ Pretigu adrenalinon, 20 mg.
 
 499
 00:34:08,000 --> 00:34:11,190
-/!\ Daŭre spirigas ŝin
-Daŭre mane. /!\
+Daŭre spirigas ŝin
+Daŭre mane.
 
 500
 00:34:11,240 --> 00:34:14,510
@@ -2111,39 +2118,39 @@ TN 10, 10 Quebec Foxtrot.
 504
 00:34:43,960 --> 00:34:47,030
 Delta Charlie Delta por la homo
-59, rue du Chateau d'Eau.
+<i>59, rue du Chateau d'Eau.</i>
 
 505
 00:35:18,800 --> 00:35:21,550
-Estas mia lasta musiko
+<i>Estas mia lasta musiko</i>
 
 506
 00:35:22,560 --> 00:35:25,310
-Mia lasta moda revo
+<i>Mia lasta moda ario</i>
 
 507
 00:35:26,280 --> 00:35:27,950
-Mia kantado por fraŭlo
+<i>Mia kantado por fraŭlo</i>
 
 508
 00:35:30,000 --> 00:35:32,830
-mia teruro en koda mondo
+<i>Mia teruro en koda mondo</i>
 
 509
 00:35:33,440 --> 00:35:36,430
-Delta Charlie Delta
+<i>Delta Charlie Delta</i>
 
 510
 00:35:37,400 --> 00:35:39,990
-Sur la polica frekvenco
+<i>Sur la polica frekvenco</i>
 
 511
 00:35:40,880 --> 00:35:43,870
-Delta Charlie Delta
+<i>Delta Charlie Delta</i>
 
 512
 00:35:44,800 --> 00:35:47,230
-Kantado de la morto glitanta
+<i>Kantado de la morto glitanta</i>
 
 513
 00:35:47,560 --> 00:35:48,540
@@ -2151,63 +2158,63 @@ Estas Ismael.
 
 514
 00:35:48,600 --> 00:35:50,980
-Estas falindiga musiko
+<i>Estas falindiga musiko</i>
 
 515
 00:35:52,320 --> 00:35:55,030
-Sed vi falis antaŭe de aŭskulti ĝin
+<i>Sed vi falis antaŭe ol vi aŭskultis ĝin</i>
 
 516
 00:35:55,410 --> 00:35:58,000
-Estas polvo al polvo
+<i>Estas polvo al polvo</i>
 
 517
 00:35:58,970 --> 00:36:01,340
-La aĉa amaseto da cindroj
+<i>La aĉa amaseto da cindroj</i>
 
 518
 00:36:03,240 --> 00:36:06,110
-Delta Charlie Delta
+<i>Delta Charlie Delta</i>
 
 519
 00:36:06,820 --> 00:36:09,260
-La lumoj de ambulanco
+<i>La lumoj de la ambulanco</i>
 
 520
 00:36:10,640 --> 00:36:13,590
-Delta Charlie Delta
+<i>Delta Charlie Delta</i>
 
 521
 00:36:14,480 --> 00:36:17,430
-Kantado de la morto dancanta
+<i>Kantado de la morto dancanta</i>
 
 522
 00:36:25,310 --> 00:36:27,900
-Via patriĉo diras ke vi dormas
+<i>Via patriĉo diras ke vi dormas</i>
 
 523
 00:36:29,480 --> 00:36:32,270
-Via patrino volas tuŝi vin
+<i>Via patrino volas tuŝi vin</i>
 
 524
 00:36:33,160 --> 00:36:36,270
-Nun la ligno ĉirkaŭ via korpo
+<i>Nun la ligno ĉirkaŭ via korpo</i>
 
 525
 00:36:36,840 --> 00:36:39,550
-komprenigas nin ke vi estas...
+<i>komprenigas nin fine ke vi estas…</i>
 
 526
 00:36:44,320 --> 00:36:46,830
-Tio danciĝas kapo-al-muro
+<i>Tio danciĝas kapo-al-muro</i>
 
 527
 00:36:51,710 --> 00:36:53,080
-Kantado de de la morto daŭra
+<i>Kantado de de la morto daŭra</i>
 
 528
 00:36:53,080 --> 00:36:54,200
-Kantado de la morto daŭra
+<i>Kantado de la morto daŭra</i>
 - Ĉu vi bezonas helpon?
 
 529
@@ -2216,7 +2223,7 @@ Kantado de la morto daŭra
 
 530
 00:36:59,120 --> 00:37:01,150
-Sur la polica frekvenco
+<i>Sur la polica frekvenco</i>
 
 531
 00:37:01,200 --> 00:37:03,150
@@ -2228,11 +2235,11 @@ Mi perdis mian libron.
 
 533
 00:37:06,600 --> 00:37:09,430
-Kantado de la morto glita
+<i>Kantado de la morto glitanta</i>
 
 534
 00:37:14,120 --> 00:37:16,350
-La lumoj de la ambulanco
+<i>La lumoj de la ambulanco</i>
 
 535
 00:37:16,400 --> 00:37:18,270
@@ -2240,7 +2247,7 @@ La nokto kirliĝas.
 
 536
 00:38:07,400 --> 00:38:08,790
-Parto Du: La Foresto
+<b>Parto Du: La Foresto</b>
 
 537
 00:38:21,640 --> 00:38:22,700
@@ -2259,12 +2266,12 @@ Parto Du: La Foresto
 
 540
 00:38:32,008 --> 00:38:34,278
-Mi scias sed mia telefono...
+Mi scias sed mia telefono…
 
 541
 00:38:34,320 --> 00:38:36,700
 paneas.
-Nun mi iras al la ĵurnalo
+Nun mi iras al la ĵurnalo.
 
 542
 00:38:36,760 --> 00:38:39,830
@@ -2299,8 +2306,8 @@ Ne manĝu ĝin, nek forĵetu ĝin.
 
 549
 00:40:14,680 --> 00:40:19,620
-/!\ Unua artikoleto, Bobigny, skotero de la filo de Sarkozy.
-Tri homoj arestataj... /!\
+Unua artikoleto, Bobigny, skotero de la filiĉo
+de Sarkozy. Tri homoj arestataj…
 
 550
 00:40:19,680 --> 00:40:21,110
@@ -2308,12 +2315,12 @@ Tri homoj arestataj... /!\
 
 551
 00:40:22,120 --> 00:40:25,150
-"Arrêté", unu "r" mankas,
+<i>Arrêté</i>, unu "r" mankas,
 tria linio.
 
 552
 00:40:25,200 --> 00:40:28,190
-"DNA" havas unu troa spaco
+<i>ADN</i> havas unu troan spacon
 
 553
 00:40:28,240 --> 00:40:31,390
@@ -2330,7 +2337,7 @@ Ne.
 
 556
 00:40:38,200 --> 00:40:41,760
-Vestaĵoj ktp ne vere gravas al vi, ĉu ne ?
+Vestaĵoj ktp. ne vere gravas al vi, ĉu ne ?
 
 557
 00:40:41,820 --> 00:40:45,060
@@ -2371,8 +2378,8 @@ Jeanne kunportantas la vestaĵojn de Julie por ĝojfajro
 
 565
 00:41:09,800 --> 00:41:12,750
-/!\ - Do mi ne ordigos viajn vestaĵojn
-- Se vi povu ploregi! /!\
+- Do mi ne ordigos viajn vestaĵojn
+- Se vi povu ploregi!
 
 566
 00:41:12,800 --> 00:41:15,070
@@ -2382,7 +2389,7 @@ Jeanne kunportantas la vestaĵojn de Julie por ĝojfajro
 567
 00:41:15,120 --> 00:41:17,550
 Mi povas helpi vin.
-Vi ankaŭ povas fin helpi
+Vi ankaŭ povas min helpi
 
 568
 00:41:18,780 --> 00:41:20,730
@@ -2391,7 +2398,7 @@ Lasu min.
 569
 00:41:20,800 --> 00:41:24,670
 Ĉar tio zorgas vin,
-sciu ke mi ankoraŭ ne amas Gwendal.
+sciu ke mi ankoraŭ ne amas na-Gwendal.
 
 570
 00:41:25,320 --> 00:41:28,190
@@ -2400,7 +2407,7 @@ ne tro ekĝoju!
 
 571
 00:41:28,240 --> 00:41:30,700
-Sed mi bezonas vin. Ĉu surprizas vin tio?
+Sed mi bezonas vin. Ĉu tio surprizas vin?
 
 572
 00:41:34,360 --> 00:41:37,470
@@ -2408,7 +2415,7 @@ Silenti
 
 573
 00:41:37,520 --> 00:41:41,870
-Vi tiom diris, neniu plu surprizas min
+Vi tiom diris, neniu plu surprizas min.
 
 574
 00:41:43,120 --> 00:41:46,150
@@ -2468,7 +2475,7 @@ Silenti
 
 588
 00:42:35,120 --> 00:42:39,430
-Gardu vian salivon por ke mi povu
+Konservu vian salivon por ke mi povu
 
 589
 00:42:40,920 --> 00:42:43,950
@@ -2536,11 +2543,11 @@ Silenti
 
 605
 00:43:42,320 --> 00:43:44,510
-je la fino...
+je la fino…
 
 606
 00:43:54,200 --> 00:43:55,790
-Estas la aferoj de mia frato.
+Estas la aferoj de mia fratiĉo.
 
 607
 00:43:56,720 --> 00:43:59,750
@@ -2549,11 +2556,11 @@ Estas la aferoj de mia frato.
 
 608
 00:43:59,800 --> 00:44:01,510
-Pri la teleregiloj...
+Pri la teleregiloj…
 
 609
 00:44:01,560 --> 00:44:04,070
-/!\ Estas kablo, televido, DVD. /!\
+Estas kablo, televido, DVD.
 
 610
 00:44:04,120 --> 00:44:06,230
@@ -2562,7 +2569,7 @@ Estas aŭkustilo se vi volas.
 611
 00:44:06,280 --> 00:44:08,710
 Por la PlayStation,
-vi devas malkonekti la DVDilon
+vi devas malkonekti la DVD-ilon
 
 612
 00:44:09,600 --> 00:44:10,630
@@ -2579,7 +2586,7 @@ Do ja estas vi?
 615
 00:44:33,120 --> 00:44:35,310
 - Kio?
-- La trablovo...
+- La trablovo…
 
 616
 00:44:35,880 --> 00:44:37,020
@@ -2604,7 +2611,7 @@ oni provas ne dormi kun malfermita fenestro.
 621
 00:44:55,080 --> 00:44:58,750
 Jes ja, sed mi ne sukcesas dormi,
-do mi ne uzas ĝin...
+do mi ne uzas ĝin…
 
 622
 00:44:59,440 --> 00:45:01,470
@@ -2617,11 +2624,11 @@ sed mi povas resti sole.
 
 624
 00:45:15,400 --> 00:45:16,540
-Estas la 6a.
+Estas la 6-a.
 
 625
 00:45:16,600 --> 00:45:18,470
-Kutime, mi ellitiĝas je la 7a.
+Kutime, mi ellitiĝas je la 7-a.
 
 626
 00:45:19,080 --> 00:45:21,070
@@ -2633,15 +2640,15 @@ Kial vi ellitiĝas tiom frue?
 
 628
 00:45:28,720 --> 00:45:30,110
-Mi iras en gimnasion.
+Mi iras en la liceon.
 
 629
 00:45:30,240 --> 00:45:33,230
-Aĥ... Aĉuloj!
+Aĥ… Aĉuloj!
 
 630
 00:45:33,920 --> 00:45:36,110
-Iliaj stultaĵoj estas pli kaj pli frue...
+Iliaj stultaĵoj estas pli kaj pli frue…
 
 631
 00:45:41,320 --> 00:45:42,510
@@ -2649,7 +2656,7 @@ Mi nomiĝas Erwann.
 
 632
 00:45:42,960 --> 00:45:46,390
-Aĥ... Aĉuloj! Ili ĉiuj estas bretonoj...
+Aĥ… Aĉuloj! Ili ĉiuj estas bretonoj…
 
 633
 00:45:46,440 --> 00:45:48,050
@@ -2667,7 +2674,7 @@ Kaj mia nur mondkoncepto estas:
 
 636
 00:45:56,440 --> 00:45:58,900
-- Belete...
+- Belete…
 - ĉu ne?
 
 637
@@ -2676,8 +2683,8 @@ Malfeliĉe, ja burĝonas
 
 638
 00:46:01,280 --> 00:46:05,710
-Multaj aceroj jam komencas malfermiĝi.
-La japanaj rozoj floriĝas...
+Multaj aceroj jam komencis malfermiĝi.
+La japanaj rozoj floriĝis…
 
 639
 00:46:05,760 --> 00:46:08,060
@@ -2685,11 +2692,11 @@ Tiu forfrostiĝis.
 
 640
 00:46:09,080 --> 00:46:11,590
-forfrstiĝis, krom se, en sia ĝardeno
+forfrostiĝis, krom se, en sia ĝardeno
 
 641
 00:46:11,640 --> 00:46:14,200
-oni tajlas branĉetojn...
+oni tajlas branĉetojn…
 
 642
 00:46:14,240 --> 00:46:16,990
@@ -2701,11 +2708,12 @@ Se vi volas uzi mian dormejon, estas la unua maldekstre
 
 644
 00:46:24,200 --> 00:46:25,790
-Kaj miaj drapoj propras.
+Kaj miaj drapoj estas puraj.
 
 645
 00:46:28,400 --> 00:46:30,190
-- Bone dormu! - Dankon!
+- Bone dormu!
+- Dankon!
 
 646
 00:46:39,040 --> 00:46:41,550
@@ -2714,7 +2722,7 @@ Kaj miaj drapoj propras.
 
 647
 00:46:41,600 --> 00:46:44,790
-Kiel vi povas travivi aĵojn antaŭ la 8a?
+Kiel vi povas travivi aĵojn antaŭ la 8-a?
 
 648
 00:46:44,840 --> 00:46:47,470
@@ -2723,12 +2731,12 @@ Estos bela tago.
 
 649
 00:46:48,520 --> 00:46:51,470
-Ne, sed mi legis Aragon.
+Ne, sed mi legis na-Aragon.
 <i>Le Cri Du Butor</i>.
 
 650
 00:46:51,520 --> 00:46:52,500
-/!\ Bv. ne fuŝu ĉion! /!\
+Bv. ne fuŝu ĉion!
 
 651
 00:46:52,560 --> 00:46:53,950
@@ -2765,7 +2773,7 @@ Kiel pentra cielo.
 
 659
 00:47:10,320 --> 00:47:12,880
-"Sur la bordo de la Seine, tagmeze junuloj
+"Sur la bordo de la <i>Seine</i>, tagmeze junuloj
 
 660
 00:47:12,920 --> 00:47:15,830
@@ -2806,11 +2814,11 @@ Vi estas la unua iĉo kiu dormas en mia lito.
 
 669
 00:48:08,560 --> 00:48:10,430
-Mi prenas por vi...
+Mi prenis por vi…
 
 670
 00:48:11,360 --> 00:48:13,470
-Mi prenis... en la panejo.
+Mi prenis… en la panejo.
 
 671
 00:48:15,000 --> 00:48:16,000
@@ -2819,16 +2827,16 @@ Kornajn bulkojn?
 672
 00:48:16,030 --> 00:48:19,900
 Ne, vinberajn bulkojn.
-Estas pli bone por kolacioni
+Estas pli bone por kolacioni.
 
 673
 00:48:21,120 --> 00:48:23,790
 - Kial, kioma horo estas?
-- Estas la 5a kaj kvarono
+- Estas la 5-a kaj kvarono
 
 674
 00:48:26,360 --> 00:48:29,710
-Mi ne havos tempon por iri hejmen...
+Mi ne havos tempon por iri hejmen…
 Ĉu Alice estas ĉi tie?
 
 675
@@ -2842,12 +2850,12 @@ Ne, neniu estas ĉi tie
 
 677
 00:48:37,120 --> 00:48:38,910
-Ne bone odoras...
+Ne bone odoras…
 
 678
 00:48:47,960 --> 00:48:49,870
 - Kio?
-- Tre bretona...
+- Tre bretona…
 
 679
 00:48:49,920 --> 00:48:51,510
@@ -2864,12 +2872,12 @@ Ne vere.
 
 682
 00:49:03,410 --> 00:49:05,560
-Bonan nokton, Alice.
--Bonan nokton, Yvette.
+- Bonan nokton, Alice.
+- Bonan nokton, Yvette.
 
 683
 00:49:12,840 --> 00:49:14,670
-Vi scias, Alice...
+Vi scias, Alice…
 
 684
 00:49:14,720 --> 00:49:17,910
@@ -2885,20 +2893,20 @@ Estas kora malfunkcio.
 
 687
 00:49:22,440 --> 00:49:26,510
-Eta koagulaĵo iris en arterio
+Eta koagulaĵo iris en arterio.
 
 688
 00:49:26,560 --> 00:49:29,510
-kaŭze de neniu, kiel subita morto kun infanetoj
+kaŭze de neniu, kiel subita morto kun infanetoj.
 
 689
 00:49:32,280 --> 00:49:35,590
 - Venu drinki.
-- Ne, mi lacas, mi volas hejmeniri
+- Ne, mi lacas, mi volas hejmeniri.
 
 690
 00:49:36,920 --> 00:49:38,310
-Ĝis
+Ĝis.
 
 691
 00:49:39,960 --> 00:49:42,260
@@ -2906,7 +2914,8 @@ Se vi ne sukcesas dormi, alvoku min!
 
 692
 00:49:42,320 --> 00:49:43,510
-- Ĉu vere? - Jes!
+- Ĉu vere?
+- Jes!
 
 693
 00:49:44,800 --> 00:49:47,430
@@ -2925,11 +2934,11 @@ Se vi ne sukcesas dormi, alvoku min!
 
 696
 00:50:32,880 --> 00:50:35,110
-La 10a distrikto ja ankaŭ estas mia kvartalo
+La 10-a distrikto ja ankaŭ estas mia kvartalo.
 
 697
 00:50:36,000 --> 00:50:38,110
-Vi afiŝas por la komunistoj?
+Vi afiŝis por la komunistoj?
 
 698
 00:50:38,520 --> 00:50:39,550
@@ -2941,19 +2950,19 @@ Kion vi volas?
 
 700
 00:50:41,800 --> 00:50:43,870
-Neniu, mi pasis saluti vin.
+Neniun, mi pasis saluti vin.
 
 701
 00:50:45,160 --> 00:50:46,950
-Je la 3a matene?
+Je la 3-a matene?
 
 702
 00:50:47,480 --> 00:50:48,870
-Se mi tedas vin, diru, mi iros...
+Se mi tedas vin, diru, mi iros…
 
 703
 00:50:48,920 --> 00:50:52,190
-Vi ne tedas min, mi nur ne komprenas kiel vi trovis min...
+Vi ne tedas min, mi nur ne komprenas kiel vi trovis min…
 
 704
 00:50:52,240 --> 00:50:53,830
@@ -2962,7 +2971,7 @@ Mi ankaŭ ne tute certas.
 705
 00:50:55,640 --> 00:50:59,230
 - Mi hejmeniru.
-- Ĉu vi  invitas min?
+- Ĉu vi invitas min?
 
 706
 00:51:00,400 --> 00:51:01,380
@@ -2987,7 +2996,7 @@ Vi bezonas neniun?
 
 711
 00:51:17,720 --> 00:51:19,510
-Ĉu mi demandis ion ajn?
+Ĉu mi demandis ion ajn al vi?
 
 712
 00:51:22,820 --> 00:51:24,410
@@ -2996,7 +3005,7 @@ Bone, mi foriras.
 713
 00:51:48,480 --> 00:51:51,040
 - Kial vi estas tie?
-- Mi zorgemis
+- Mi zorgis
 
 714
 00:51:52,300 --> 00:51:54,570
@@ -3021,7 +3030,7 @@ Ili diris al vi por la aŭtopsio?
 719
 00:52:08,080 --> 00:52:10,590
 - Ĉu vi ankaŭ dormis tie hieraŭ?
-- Jes.
+- Jes ja.
 
 720
 00:52:16,920 --> 00:52:18,710
@@ -3037,7 +3046,7 @@ Nin subteni.
 
 723
 00:52:23,980 --> 00:52:25,170
-Reciproke .
+Reciproke.
 
 724
 00:52:28,800 --> 00:52:30,950
@@ -3066,11 +3075,11 @@ Kial estas la hundo tie?
 
 730
 00:52:46,480 --> 00:52:49,790
-Mi timis sole, do mi demandas al panjo de prunti ŝin.
+Mi timis sole, do mi demandis al panjo de prunti ŝin.
 
 731
 00:52:49,840 --> 00:52:50,820
-Ĉu vi havas fajron?
+Ĉu vi havas fajrilon?
 
 732
 00:53:17,880 --> 00:53:19,870
@@ -3078,16 +3087,16 @@ Mi timis sole, do mi demandas al panjo de prunti ŝin.
 
 733
 00:53:21,300 --> 00:53:24,490
-Pardonu, mi vere ne povas, ne eblas al mi...
+Pardonu, mi vere ne povas, ne eblas al mi…
 
 734
 00:53:24,720 --> 00:53:27,280
-Ne interesas min, ne helpas min...
+Ne interesas min, ne helpas min…
 
 735
 00:53:27,320 --> 00:53:31,510
 Do prenu la ŝlosilojn de Julie,
-mi konservas mian, kaj bonan nokton.
+mi konservas miajn, kaj bonan nokton.
 
 736
 00:53:49,360 --> 00:53:52,030
@@ -3095,7 +3104,7 @@ Ne starigu demandojn, donu al mi la ĉifron.
 
 737
 00:53:52,280 --> 00:53:53,590
-7A20.
+7 A 20.
 
 738
 00:53:59,240 --> 00:54:00,830
@@ -3103,12 +3112,12 @@ Komfortiĝu.
 
 739
 00:54:04,110 --> 00:54:07,810
-- Vi malfrue laboras...
-- Ne mi finantas.
+- Vi malfrue laboras…
+- Ne mi estas finanta.
 
 740
 00:54:09,480 --> 00:54:11,910
-Ni trarigardu bretona librobretaro!
+Ni trarigardu bretonan librobretaron!
 
 741
 00:54:15,160 --> 00:54:17,310
@@ -3116,7 +3125,7 @@ La tenereco sur la haŭto
 
 742
 00:54:17,840 --> 00:54:19,710
-Ne estas la gimnazia programo!
+Ne estas la licea programo!
 
 743
 00:54:19,760 --> 00:54:21,630
@@ -3148,7 +3157,7 @@ La pomon krakmaĉe
 
 750
 00:54:42,320 --> 00:54:44,880
-Por la saporo de la frukto
+Por la gusto de la frukto
 
 751
 00:54:44,920 --> 00:54:47,510
@@ -3156,11 +3165,11 @@ Por la saporo de la frukto
 
 752
 00:54:47,560 --> 00:54:49,790
-Ĉu vi perdidiĝis ofte?
+Ĉu vi perdiĝis ofte?
 
 753
 00:54:52,680 --> 00:54:55,470
-Jes mi jam amis
+Jes, mi jam amis
 
 754
 00:54:55,520 --> 00:54:57,980
@@ -3192,7 +3201,7 @@ La daŭraj amoj
 
 761
 00:55:16,480 --> 00:55:18,940
-Igis la amantojn lacajn
+Igas la amantojn lacajn
 
 762
 00:55:19,000 --> 00:55:21,510
@@ -3200,7 +3209,7 @@ Kaj iliaj tro maturaj kisoj
 
 763
 00:55:21,560 --> 00:55:24,120
-Putrigas via langon
+Putrigas vian langon.
 
 764
 00:55:24,160 --> 00:55:26,790
@@ -3240,11 +3249,11 @@ Mordetas nian koron
 
 773
 00:55:47,800 --> 00:55:50,390
-La cerbon kaj ceteron
+Cerbon kaj ceteron
 
 774
 00:55:50,440 --> 00:55:53,070
-Malplenigas nin malrapide
+Malplenigas nin malrapide.
 
 775
 00:55:55,600 --> 00:55:58,190
@@ -3268,7 +3277,7 @@ Balzamas nian koron
 
 780
 00:56:08,760 --> 00:56:11,270
-La cerbon kaj restigas al ni
+La cerbon kaj lasas al ni
 
 781
 00:56:11,320 --> 00:56:13,910
@@ -3296,7 +3305,7 @@ La daŭraj amoj
 
 787
 00:56:29,370 --> 00:56:31,880
-Igis la amantojn malpi belajn
+Igas la amantojn malpi belajn
 
 788
 00:56:32,240 --> 00:56:34,830
@@ -3304,7 +3313,7 @@ Iliaj karesoj kun la tempo
 
 789
 00:56:34,880 --> 00:56:36,990
-Detruas niajn haŭtojn
+Detruas niajn haŭtojn.
 
 790
 00:56:38,400 --> 00:56:40,390
@@ -3312,21 +3321,21 @@ Dormu vermo!
 
 791
 00:56:40,440 --> 00:56:42,310
-Kial, ne tiom malfruas. Nur estas la 4a.
+Kial, ne tiom malfruas. Nur estas la 4-a.
 
 792
 00:56:42,360 --> 00:56:45,150
-Jes, sed morgaŭ matene, je la 7a,
-vi havas matematikon...
+Jes, sed morgaŭ matene, je la 7-a,
+vi havas matematikon…
 
 793
 00:56:45,200 --> 00:56:47,110
-kemikon, kaj algebrikon...
+kemikon, kaj algebrikon…
 
 794
 00:56:50,360 --> 00:56:53,470
 - Mi povas dormi en la salono.
-- Fari kiel vi estis hejmen.
+- Faru kiel vi estis hejme.
 
 795
 00:56:54,080 --> 00:56:55,110
@@ -3346,11 +3355,11 @@ Estis nia parko.
 
 799
 00:57:13,600 --> 00:57:16,110
-Vi iris kun ni kiam ni estis infanoj
+Vi iris kun ni kiam ni estis infanoj.
 
 800
 00:57:17,520 --> 00:57:20,390
-Mi ĝojas ke vikuraĝos iri tien, kara.
+Mi ĝojas ke vi kuraĝas iri tien, kara.
 
 801
 00:57:20,440 --> 00:57:21,790
@@ -3358,7 +3367,7 @@ Mi jes kredas.
 
 802
 00:57:23,500 --> 00:57:24,610
-Do...
+Do…
 
 803
 00:57:27,310 --> 00:57:29,100
@@ -3383,19 +3392,19 @@ Mi ne ĝin faras por nur unu homo.
 
 808
 00:57:43,690 --> 00:57:45,960
-Jasmine, neniu histerio...
+Jasmine, ne estu histeria…
 
 809
 00:57:46,330 --> 00:57:47,720
-/!\ Mi ne estas histeria. /!\
+Mi ne estas histeria!
 
 810
 00:57:50,930 --> 00:57:53,960
-Ismael, mi profitas de la fakto ko oni ĉiuj estas tie
+Ismael, mi profitas de la fakto ke oni ĉiuj estas tie
 
 811
 00:57:54,360 --> 00:57:56,150
-Por diri al vi, ke...
+Por diri al vi, ke…
 
 812
 00:57:56,200 --> 00:58:00,030
@@ -3412,11 +3421,11 @@ Sed ankaŭ du sparkontoj.
 
 815
 00:58:08,120 --> 00:58:10,710
-Mi ne scias ĉu Julie diris al vi, sed...
+Mi ne scias ĉu Julie diris al vi, sed…
 
 816
 00:58:11,720 --> 00:58:17,030
-en ŝia kabineto, ŝi havis viv'asekuro.
+en ŝia kabineto, ŝi havis viv'asekuron.
 
 817
 00:58:17,080 --> 00:58:20,230
@@ -3428,7 +3437,7 @@ Jen.
 
 819
 00:58:22,960 --> 00:58:27,190
-Tute, vi devus ricevi ĉirkaŭ 20.000 eŭroj.
+Tute, vi devus ricevi ĉirkaŭ 20.000 eŭrojn.
 
 820
 00:58:27,240 --> 00:58:31,190
@@ -3437,12 +3446,12 @@ Mi ne volas tiun monon. Pardonu.
 
 821
 00:58:31,240 --> 00:58:35,510
-/!\ Neniu volas tiun monon.
-Do  Sed vi plej bezonas ĝin /!\
+Neniu volas tiun monon.
+Sed vi plej bezonas ĝin.
 
 822
 00:58:35,560 --> 00:58:37,910
-Mi ne pagis la entombigo.
+Mi ne pagis la entombigon.
 
 823
 00:58:37,960 --> 00:58:40,420
@@ -3450,7 +3459,7 @@ Ne estis vi, kiu devis pagi ĝin.
 
 824
 00:58:59,360 --> 00:59:02,590
-Ĉu vi ne havas restudindaĵojn?
+Ĉu vi ne havas restudendaĵojn?
 
 825
 00:59:03,360 --> 00:59:07,270
@@ -3467,7 +3476,7 @@ Kristnasko forpasis, kion vi esperas?
 
 828
 00:59:17,720 --> 00:59:19,950
-Kaj vi, maljuna fratino...
+Kaj vi, maljuna fratino…
 
 829
 00:59:20,000 --> 00:59:23,700
@@ -3480,7 +3489,7 @@ Iomete da ĵaluzo, ĉu ne?
 831
 00:59:25,680 --> 00:59:28,590
 Ĉu oni parolis al vi de kondukpermesilo,
-kiam vi estis 20
+kiam vi estis 20.
 
 832
 00:59:30,640 --> 00:59:33,550
@@ -3501,209 +3510,209 @@ Kaj vi kisu min. Kisu min!
 
 836
 00:59:41,800 --> 00:59:42,780
-Naŭze...
+Naŭze…
 
 837
 00:59:47,060 --> 00:59:49,890
 Mi ĝojas ke vi bonfartas Ismaël.
-Helpas nin ĉiuj...
+Helpas nin ĉiuj…
 
 838
 01:00:09,990 --> 01:00:11,630
-La okuloj
+<i>La okuloj</i>
 
 839
 01:00:11,680 --> 01:00:13,400
-En la ĉielo
+<i>En la ĉielo</i>
 
 840
 01:00:13,460 --> 01:00:17,370
-La blankaj nuboj en la perfekta bluo
+<i>La blankaj nuboj en la perfekta bluo</i>
 
 841
 01:00:17,420 --> 01:00:19,650
-Neniu postsigno de Dio
+<i>Neniu signo de Dio</i>
 
 842
 01:00:19,750 --> 01:00:21,460
-En la ĉielo
+<i>En la ĉielo</i>
 
 843
 01:00:21,720 --> 01:00:25,710
-Tiuj malrapidaj nuboj en la difektita bluo
+<i>Tiuj malrapidaj nuboj en la difektita bluo</i>
 
 844
 01:00:25,760 --> 01:00:27,990
-La suno superverŝas
+<i>La suno superverŝas</i>
 
 845
 01:00:28,040 --> 01:00:29,830
-La ĉielon
+<i>La ĉielon</i>
 
 846
 01:00:29,880 --> 01:00:33,830
-Mia vintraj tagoj
-pasitaj forgesanta vin
+<i>Mia vintraj tagoj</i>
+<i>pasitaj forgesanta vin</i>
 
 847
 01:00:33,880 --> 01:00:36,180
-Kie ĉiu sekundo
+<i>Kie ĉiu sekundo</i>
 
 848
 01:00:37,400 --> 01:00:40,190
-Estas manpleno da tero
+<i>Estas manpleno da tero</i>
 
 849
 01:00:42,240 --> 01:00:44,230
-Kie ĉiu minuto
+<i>Kie ĉiu minuto</i>
 
 850
 01:00:46,280 --> 01:00:48,270
-Estas ĝemploro
+<i>Estas ĝemploro</i>
 
 851
 01:00:50,000 --> 01:00:52,070
-Vidu kiom mi batalas
+<i>Vidu kiom mi batalas</i>
 
 852
 01:00:52,120 --> 01:00:54,110
-Vidu kiom mi perdas
+<i>Vidu kion mi perdas</i>
 
 853
 01:00:54,160 --> 01:00:58,350
-Da sango kaj akvo
-Da sango kaj akvo
+<i>Da sango kaj akvo</i>
+<i>Da sango kaj akvo</i>
 
 854
 01:01:02,880 --> 01:01:04,430
-Mi ĵetas
+<i>Mi ĵetas</i>
 
 855
 01:01:04,480 --> 01:01:06,110
-En la ĉielon
+<i>En la ĉielon</i>
 
 856
 01:01:06,160 --> 01:01:10,230
-Tiuj poluritaj rulŝtonoj, kiuj vi farbis verde
+<i>Tiujn poluritajn rulŝtonojn, kiujn vi farbis verde</i>
 
 857
 01:01:10,280 --> 01:01:12,550
-Sed neniu rispondo
+<i>Sed neniu respondo</i>
 
 858
 01:01:12,600 --> 01:01:14,870
-De la ĉielo
+<i>De la ĉielo</i>
 
 859
 01:01:14,920 --> 01:01:18,310
-Neniu resalto sur tiu maro kontraŭsenca
+<i>Neniu resalto sur tiu maro kontraŭsenca</i>
 
 860
 01:01:18,360 --> 01:01:20,590
-La suno superverŝas
+<i>La suno superverŝas</i>
 
 861
 01:01:20,640 --> 01:01:22,350
-La ĉielon
+<i>La ĉielon</i>
 
 862
 01:01:22,400 --> 01:01:26,350
-Miaj infernaj tagoj
-pasitaj entombiganta vin
+<i>Miaj infernaj tagoj</i>
+<i>pasitaj entombiganta vin</i>
 
 863
 01:01:26,400 --> 01:01:28,390
-Kie ĉiu sekundo
+<i>Kie ĉiu sekundo</i>
 
 864
 01:01:29,960 --> 01:01:32,420
-Estas manpleno da tero
+<i>Estas manpleno da tero</i>
 
 865
 01:01:34,760 --> 01:01:36,910
-Kie ĉiu minuto
+<i>Kie ĉiu minuto</i>
 
 866
 01:01:38,840 --> 01:01:40,910
-Estas mortenkavo
+<i>Estas kelo</i>
 
 867
 01:01:42,560 --> 01:01:44,550
-Vidu kiom mi batalas
+<i>Vidu kiom mi batalas</i>
 
 868
 01:01:44,600 --> 01:01:46,230
-Vidu kiom mi perdas
+<i>Vidu kion mi perdas</i>
 
 869
 01:01:46,280 --> 01:01:50,950
-Da sango kaj akvo
-Da sango kaj akvo
+<i>Da sango kaj akvo</i>
+<i>Da sango kaj akvo</i>
 
 870
 01:01:55,280 --> 01:01:56,910
-Mi esperas
+<i>Mi esperas</i>
 
 871
 01:01:56,960 --> 01:01:58,710
-Ke en la ĉielo
+<i>Ke en la ĉielo</i>
 
 872
 01:01:58,760 --> 01:02:02,710
-Malignaj diabloj tranĉas la flugiloj de la anĝeloj
+<i>Malignaj diabloj tranĉas la flugilojn de la anĝeloj</i>
 
 873
 01:02:02,760 --> 01:02:05,030
-Por ke vi refalas
+<i>Por ke vi refalas</i>
 
 874
 01:02:05,080 --> 01:02:06,710
-De la ĉielo
+<i>De la ĉielo</i>
 
 875
 01:02:06,760 --> 01:02:10,630
-En miajn malfermitajn brakojn, providenca donaco
+<i>En miajn malfermitajn brakojn, providenca donaco</i>
 
 876
 01:02:16,000 --> 01:02:18,190
-Sed ĉiu sekundo
+<i>Sed ĉiu sekundo</i>
 
 877
 01:02:19,550 --> 01:02:22,340
-Estas manpleno da tero
+<i>Estas manpleno da tero</i>
 
 878
 01:02:24,240 --> 01:02:26,590
-Sed ĉiu sekundo
+<i>Sed ĉiu sekundo</i>
 
 879
 01:02:27,690 --> 01:02:30,400
-Estas manpleno da tero
+<i>Estas manpleno da tero</i>
 
 880
 01:02:32,040 --> 01:02:34,480
-Kaj ĉiu minuto
+<i>Kaj ĉiu minuto</i>
 
 881
 01:02:36,580 --> 01:02:38,490
-Estas tombo
+<i>Estas tombo</i>
 
 882
 01:02:40,240 --> 01:02:42,230
-Vidu kiom mi batalas
+<i>Vidu kiom mi batalas</i>
 
 883
 01:02:42,280 --> 01:02:44,230
-Vidu kiom mi perdas
+<i>Vidu kion mi perdas</i>
 
 884
 01:02:44,280 --> 01:02:48,870
-Da sango kaj akvo
-Da sango kaj akvo
+<i>Da sango kaj akvo</i>
+<i>Da sango kaj akvo</i>
 
 885
 01:03:38,520 --> 01:03:39,500
-Maud...
+Maud…
 
 886
 01:03:41,360 --> 01:03:43,950
@@ -3715,8 +3724,8 @@ Kun via karea ŝafido?
 
 888
 01:04:10,080 --> 01:04:13,350
-Vekiĝu...
-Iu estas apud.
+Vekiĝu…
+Estas iu apud.
 
 889
 01:04:17,840 --> 01:04:19,990
@@ -3742,7 +3751,7 @@ Kion vi faras?
 894
 01:05:00,400 --> 01:05:03,230
 - Vi estas Alice?
-- Ne...
+- Ne…
 
 895
 01:05:36,300 --> 01:05:37,280
@@ -3750,12 +3759,12 @@ Laboru.
 
 896
 01:05:46,520 --> 01:05:48,110
-Kion vi faras tie?
+Kion vi faras ĉi-tie?
 
 897
 01:05:48,160 --> 01:05:51,110
 - Mi venis vidi vin. Kie vi estas?
-- Malantaŭe vi.
+- Malantaŭ vi.
 
 898
 01:05:52,520 --> 01:05:55,110
@@ -3785,119 +3794,119 @@ kaj nenial devus atendi min.
 
 904
 01:06:12,240 --> 01:06:15,150
-La mistero de viaj lacaj okuloj
+<i>La mistero de viaj lacaj okuloj</i>
 
 905
 01:06:15,200 --> 01:06:18,550
-Tiu mistero, kion fari el ĝi, vi ne scias
+<i>Tiu mistero, kion fari el ĝi, vi ne scias</i>
 
 906
 01:06:19,160 --> 01:06:22,430
-La sekreto de via stato
+<i>La sekreto de via stato</i>
 
 907
 01:06:22,480 --> 01:06:25,750
-Sekretoj, mi havas multe
+<i>Sekretojn, mi havas multe</i>
 
 908
 01:06:25,800 --> 01:06:28,750
-Tiu baro inter ni
+<i>Tiu baro inter ni</i>
 
 909
 01:06:28,800 --> 01:06:32,270
-Tiu baro, kion fari el ĝi, tiu ŝirmilo
+<i>Tiu baro, kion fari el ĝi, tiu ŝirmilo</i>
 
 910
 01:06:32,320 --> 01:06:35,630
-Trapasi la limon de via staton
+<i>Trapasi la limon de via staton</i>
 
 911
 01:06:35,680 --> 01:06:39,270
-Staranta sur viaj teroj, rigardu min
+<i>Staranta sur viaj teroj, rigardu min</i>
 
 912
 01:06:42,040 --> 01:06:43,790
-Vi ja devos antaŭeniri
+<i>Vi ja devos antaŭeniri</i>
 
 913
 01:06:43,840 --> 01:06:46,300
-Se oni volas nuligi la distancon
+<i>Se oni volas nuligi la distancon</i>
 
 914
 01:06:46,360 --> 01:06:47,830
-Inter ni
+<i>Inter ni</i>
 
 915
 01:06:48,840 --> 01:06:50,680
-Vi devus alkroĉiĝi pli forte
+<i>Vi devus alkroĉiĝi pli forte</i>
 
 916
 01:06:50,730 --> 01:06:53,110
-Se vi volas alkroĉiĝi daŭre
+<i>Se vi volas alkroĉiĝi daŭre</i>
 
 917
 01:06:53,160 --> 01:06:54,270
-Al mia kolo
+<i>Al mia kolo</i>
 
 918
 01:06:56,560 --> 01:06:59,550
-Sur viaj teroj, tiom malvarmas
+<i>Sur viaj teroj, tiom malvarmas</i>
 
 919
 01:06:59,560 --> 01:07:03,070
-Tiu vintro, kion fari el ĝi, ĉu vi ne vidas
+<i>Tiu vintro, kion fari el ĝi, ĉu vi ne vidas</i>
 
 920
 01:07:03,140 --> 01:07:06,610
-Ke de la grundo ĝis la ĉielo de via stato
+<i>Ke de la grundo ĝis la ĉielo de via stato</i>
 
 921
 01:07:06,630 --> 01:07:08,260
-Ĉiu nur estas frosto
+<i>Ĉiu nur estas frosto</i>
 
 922
 01:07:08,330 --> 01:07:10,110
-Varmigu vin
+<i>Varmigu vin</i>
 
 923
 01:07:12,800 --> 01:07:14,830
-Vi ja devos antaŭeniri
+<i>Vi ja devos antaŭeniri</i>
 
 924
 01:07:14,860 --> 01:07:17,070
-Se oni volas nuligi la distancon
+<i>Se oni volas nuligi la distancon</i>
 
 925
 01:07:17,120 --> 01:07:18,750
-Inter ni
+<i>Inter ni</i>
 
 926
 01:07:19,680 --> 01:07:21,580
-Vi devus alkroĉiĝi pli forte
+<i>Vi devus alkroĉiĝi pli forte</i>
 
 927
 01:07:21,640 --> 01:07:23,590
-Se vi volas alkroĉiĝi daŭre
+<i>Se vi volas alkroĉiĝi daŭre</i>
 
 928
 01:07:23,920 --> 01:07:25,550
-Al mia kolo
+<i>Al mia kolo</i>
 
 929
 01:07:27,280 --> 01:07:29,920
-La mistero de viaj lacaj okuloj
+<i>La mistero de viaj lacaj okuloj</i>
 
 930
 01:07:30,240 --> 01:07:33,630
-Tiu eta mistero, konsistas el kio
+<i>Tiu eta mistero, konsistas el kio</i>
 
 931
 01:07:33,680 --> 01:07:37,350
-Tiu kompatinda mistero en malsana stato
+<i>Tiu kompatinda mistero en malsana stato</i>
 
 932
 01:07:37,400 --> 01:07:40,940
-Nenial apartenas al viaj brakoj
+<i>Nenial apartenas al viaj brakoj</i>
 
 933
 01:07:49,320 --> 01:07:50,630
@@ -3905,7 +3914,8 @@ Aĉulo!
 
 934
 01:07:55,920 --> 01:07:57,710
-Gwendal sendas lia fratiĉo?
+- Gwendal sendas lian fratiĉon?
+- Bonan tagon, Alice!
 
 935
 01:07:57,760 --> 01:08:00,280
@@ -3914,12 +3924,13 @@ Gwendal sendas lia fratiĉo?
 
 936
 01:08:00,330 --> 01:08:03,900
-/!\ Ne moku min. Mi bone divenas ke li sendis
-lia fratiĉo por moralaĉi min... /!\
+Ne moku min. Mi divenas ke li sendis
+lian fratiĉon por moralaĉi min…
 
 937
 01:08:03,950 --> 01:08:05,430
-Li volas min kompatigi. - Pri kio?
+- Li volas min kompatigi.
+- Pri kio?
 
 938
 01:08:05,480 --> 01:08:07,000
@@ -3940,7 +3951,7 @@ Li estas danĝera, mi timas lin.
 
 942
 01:08:17,760 --> 01:08:20,710
-- Vi timas Gwendal?
+- Vi timas na-Gwendal?
 - Mi ne plu volas vidi lin.
 
 943
@@ -3954,7 +3965,7 @@ Oni jam antaŭgardis min.
 945
 01:08:26,520 --> 01:08:29,270
 Bretonoj estas danĝeraj.
-Do kiam ili amas vin, kuru...
+Do kiam ili amas vin, kuru…
 
 946
 01:08:29,320 --> 01:08:30,300
@@ -3962,8 +3973,8 @@ Jen.
 
 947
 01:08:30,360 --> 01:08:32,590
-- Mi ne volas ilin...
-- Li resendos Erwann.
+- Mi ne volas ilin…
+- Li resendos na-Erwann.
 
 948
 01:08:32,640 --> 01:08:35,070
@@ -3979,7 +3990,7 @@ Neniu.
 
 951
 01:08:53,560 --> 01:08:56,870
-- Kio ili faras?
+- Kion ili faras?
 - Ili ŝanĝis la unuan paĝon.
 
 952
@@ -3993,7 +4004,7 @@ Novaj ŝuoj?
 
 954
 01:09:08,910 --> 01:09:10,050
-Ba...
+Ba…
 
 955
 01:09:11,400 --> 01:09:13,190
@@ -4001,7 +4012,7 @@ Mi donis la ŝlosilojn al Ismaël.
 
 956
 01:09:13,240 --> 01:09:16,590
-Kaj la aferoj kiuj restas, mi donas al vi.
+Kaj la aferojn kiuj restas, mi donas al vi.
 
 957
 01:09:16,640 --> 01:09:18,830
@@ -4009,12 +4020,13 @@ Diru al via fratiĉo ke mi pardonpetas.
 
 958
 01:09:45,560 --> 01:09:47,110
-Ĉu vi volas ke mi kondukas vin?
+- Ĉu vi volas ke mi konduku vin?
+- Kio?
 
 959
 01:09:47,160 --> 01:09:48,840
-- Ĉu vi volas ke mi kondukas vin?
-- Ne
+- Ĉu vi volas ke mi konduku vin?
+- Ne.
 
 960
 01:09:48,950 --> 01:09:50,270
@@ -4027,31 +4039,31 @@ Saluton
 
 962
 01:10:04,000 --> 01:10:07,750
-Parto Tri: La Reveno
+<b>Parto Tri: La Reveno</b>
 
 963
 01:10:07,800 --> 01:10:10,030
-He vi
+<i>He vi</i>
 
 964
 01:10:10,080 --> 01:10:12,710
-Diru al mi ke vi amas min
+<i>Diru al mi ke vi amas min</i>
 
 965
 01:10:13,080 --> 01:10:15,640
-Eĉ se estas mensogo
+<i>Eĉ se estas mensogo</i>
 
 966
 01:10:15,680 --> 01:10:18,140
-Kaj ke ni havas neniun ŝancon
+<i>Kaj se ni havas neniun ŝancon</i>
 
 967
 01:10:19,280 --> 01:10:22,270
-La vivo estas tiom trista
+<i>La vivo estas tiom trista</i>
 
 968
 01:10:22,390 --> 01:10:24,620
-Diru al mi ke vi amas min
+<i>Diru al mi ke vi amas min</i>
 
 969
 01:10:38,180 --> 01:10:39,930
@@ -4076,8 +4088,8 @@ Vi ne diris al Ismaël ke vi venis?
 
 974
 01:10:54,680 --> 01:10:58,670
-Jeanne serĉis en lia aferoj
-por trovi vian telefonnumero
+Jeanne serĉis en liaj aferoj
+por trovi vian telefonnumeron
 
 975
 01:10:58,720 --> 01:11:00,110
@@ -4089,11 +4101,11 @@ Ne, dankon.
 
 977
 01:11:11,760 --> 01:11:14,790
-Ismaël diris al mi por la aŭtopsiaj rezultoj.
+Ismaël diris al mi pri la aŭtopsiaj rezultoj.
 
 978
 01:11:14,840 --> 01:11:16,830
-kial li diris al vi?
+Kial li diris al vi?
 
 979
 01:11:17,680 --> 01:11:19,470
@@ -4113,7 +4125,7 @@ Mi ne certas.
 
 983
 01:11:27,080 --> 01:11:29,870
-/!\ Ni kutimiĝis al la fakto ke la doktorojn solvas ĉiujn misteriojn/!\
+Ni kutimiĝis al la fakto ke la doktorojn solvas ĉiujn misterojn,
 
 984
 01:11:29,920 --> 01:11:32,590
@@ -4125,24 +4137,24 @@ Mi malakceptas tiun trompon.
 
 986
 01:11:35,840 --> 01:11:38,350
-Misterio estas peco de la vivo.
+Mistero estas parto de la vivo.
 
 987
 01:11:38,400 --> 01:11:42,270
-Kaj rilate al la morto de Julie, li restos
+Kaj pri la morto de Julie, li restos
 kiel unu pli teruraĵo.
 
 988
 01:11:43,920 --> 01:11:45,710
-sed mi ne volis paroli pri tio.
+Sed ne pri tio mi volis paroli.
 
 989
 01:11:48,080 --> 01:11:51,620
-Ŝajnas stulta, mi volas ke vi vartu Ismaël.
+Ŝajnas stulta, mi volas ke vi zorgu pri Ismaël.
 
 990
 01:11:51,680 --> 01:11:53,910
-Mi volas ke vi  zorgas pri li.
+Mi volas ke vi atentu pri li.
 
 991
 01:11:53,960 --> 01:11:55,750
@@ -4179,7 +4191,7 @@ Via demando estas al mi stranga.
 
 999
 01:12:22,480 --> 01:12:24,110
-Mi nur volas lin feliĉa.
+Mi nur volas lian feliĉon.
 
 1000
 01:12:25,880 --> 01:12:27,270
@@ -4202,11 +4214,11 @@ igi homojn feliĉajn kontraŭ iliaj voloj.
 
 1004
 01:12:43,280 --> 01:12:44,630
-Mi estas tie...
+Mi estas tie…
 
 1005
 01:12:44,700 --> 01:12:47,450
-Mi diris al li, ke vi promenigas Scarlett
+Mi diris al li, ke vi promenigis na-Scarlett
 
 1006
 01:12:48,000 --> 01:12:49,470
@@ -4222,7 +4234,7 @@ Dankegon por veni.
 
 1009
 01:12:56,400 --> 01:12:59,590
-Ne forgesi, vi estas ano de la familio.
+Ne forgesu, vi estas ano de la familio.
 
 1010
 01:12:59,640 --> 01:13:01,230
@@ -4234,7 +4246,7 @@ Ne forgesi, vi estas ano de la familio.
 
 1012
 01:13:05,160 --> 01:13:08,670
-Mi unue lasa al vi 10 minutoj por krii, mi alvenas.
+Mi unue lasa al vi 10 minutojn por krii, mi alvenas.
 
 1013
 01:13:13,480 --> 01:13:14,870
@@ -4287,7 +4299,7 @@ OK.
 
 1025
 01:13:43,240 --> 01:13:45,230
-/!\ Ĉu vi travivas tion? /!\
+Ĉu vi elturniĝas?
 
 1026
 01:13:45,280 --> 01:13:46,550
@@ -4295,8 +4307,8 @@ Ne.
 
 1027
 01:13:46,600 --> 01:13:50,110
-/!\ Objektive,
-mi tute ne travivas tion. /!\
+Objektive,
+mi tute ne elturniĝas.
 
 1028
 01:13:50,160 --> 01:13:52,750
@@ -4305,7 +4317,7 @@ mi tute ne travivas tion. /!\
 
 1029
 01:13:53,400 --> 01:13:54,870
-Mi pensas.
+Mi kredas.
 
 1030
 01:13:59,480 --> 01:14:01,070
@@ -4317,847 +4329,855 @@ Saluton.
 
 1032
 01:14:20,200 --> 01:14:21,590
-Purigu
+<i>Purigu</i>
 
 1033
 01:14:24,680 --> 01:14:28,590
-Mian malpuran memoron en ĝia rivero da koto
+<i>Mian malpuran memoron en ĝia rivero da koto</i>
 
 1034
 01:14:32,240 --> 01:14:36,390
-Kun la pinto de via lango purigu min ĉie
+<i>Kun la pinto de via lango purigu min ĉie</i>
 
 1035
 01:14:38,120 --> 01:14:43,670
-Kaj ne lasu iun ajn postignon
+<i>Kaj ne lasu iun ajn postignon</i>
 
 1036
 01:14:46,120 --> 01:14:47,710
-De ĉiu
+<i>De ĉiu</i>
 
 1037
 01:14:49,240 --> 01:14:51,700
-Kiu ligas min
+<i>Kiu ligas min</i>
 
 1038
 01:14:51,760 --> 01:14:55,270
-Kaj lacas min
+<i>Kaj lacas min</i>
 
 1039
 01:14:57,560 --> 01:14:59,270
-Ve
+<i>Ve</i>
 
 1040
 01:15:01,560 --> 01:15:03,470
-Elpelu
+<i>Elpelu</i>
 
 1041
 01:15:06,200 --> 01:15:10,470
-Postĉasu ŝin en mi, nur tie ŝi vivas
+<i>Postĉasu ŝin en mi, nur en mi ŝi vivas</i>
 
 1042
 01:15:13,320 --> 01:15:17,710
-Kaj kiam vi havos ŝin je la pinto de via pafilo
+<i>Kaj kiam vi havos ŝin pinte de via pafilo</i>
 
 1043
 01:15:19,640 --> 01:15:24,910
-Ne aŭskultu, se ŝi ĝempetas
+<i>Ne aŭskultu, se ŝi ĝempetas</i>
 
 1044
 01:15:27,800 --> 01:15:29,190
-Vi scias
+<i>Vi scias</i>
 
 1045
 01:15:30,960 --> 01:15:33,260
-Ke ŝi devas morti
+<i>Ke ŝi devas morti</i>
 
 1046
 01:15:33,320 --> 01:15:36,790
-En dua morto
+<i>En dua morto</i>
 
 1047
 01:15:39,000 --> 01:15:40,590
-Do
+<i>Do</i>
 
 1048
 01:15:42,880 --> 01:15:44,590
-Mortigu ŝin
+<i>Mortigu ŝin</i>
 
 1049
 01:15:46,560 --> 01:15:48,270
-Denove
+<i>Denove</i>
 
 1050
 01:15:50,840 --> 01:15:52,150
-Ploru
+<i>Ploru</i>
 
 1051
 01:15:54,800 --> 01:15:58,910
-Mi faris ĝin antaŭ vin, kaj ĝi ne utilas
+<i>Mi faris tiun antaŭ vi, kaj tiu ne utilas</i>
 
 1052
 01:16:02,400 --> 01:16:06,830
-Kial do la ploroj, superakvi la kusenojn
+<i>Kial do la ploroj, superakvi la kusenojn?</i>
 
 1053
 01:16:09,120 --> 01:16:14,060
-Mi elprovis,
-mi elprovis
+<i>Mi elprovis,</i>
+<i>mi elprovis</i>
 
 1054
 01:16:16,840 --> 01:16:18,230
-Sed mi havas
+<i>Sed mi havas</i>
 
 1055
 01:16:20,040 --> 01:16:22,340
-Sekan koron
+<i>Sekan koron</i>
 
 1056
 01:16:22,400 --> 01:16:25,910
-Kaj ŝvelitajn okulojn
+<i>Kaj ŝvelitajn okulojn</i>
 
 1057
 01:16:28,310 --> 01:16:29,780
-Sed mi havas
+<i>Sed mi havas</i>
 
 1058
 01:16:31,120 --> 01:16:33,710
-Sekan koron
+<i>Sekan koron</i>
 
 1059
 01:16:35,160 --> 01:16:37,590
-Kaj ŝvelitajn okulojn
+<i>Kaj ŝvelitajn okulojn</i>
 
 1060
 01:16:39,240 --> 01:16:41,310
-Do flamu
+<i>Do brulu</i>
 
 1061
 01:16:44,320 --> 01:16:48,470
-Flamu kiam vi enkotiĝas
-en mian grandan glacian liton
+<i>Brulu kiam vi enkotiĝas</i>
+<i>en mia granda glacia lito</i>
 
 1062
 01:16:51,560 --> 01:16:56,070
-Mian liton, kiel bankizo,
-kiu degelas kiam vi brakumas min
+<i>Mia lito, kiel bankizo,</i>
+<i>kiu fandas kiam vi brakumas min</i>
 
 1063
 01:16:57,800 --> 01:17:00,070
-Neniu plu tristas
+<i>Neniu plu malgajas</i>
 
 1064
 01:17:00,120 --> 01:17:03,710
-Neniu plu gravas
+<i>Neniu plu gravas</i>
 
 1065
 01:17:05,800 --> 01:17:07,510
-Se mi havas
+<i>Se mi havas</i>
 
 1066
 01:17:09,040 --> 01:17:11,630
-Vian korpon kiel
+<i>Vian korpon kiel</i>
 
 1067
 01:17:11,680 --> 01:17:15,220
-Rivero de lafo, kiu purigas
+<i>Riveron de lafon, kiu purigas</i>
 
 1068
 01:17:18,480 --> 01:17:22,470
-Mian malpuran memoron en ĝia rivero da koto
+<i>Mian malpuran memoron en ĝia rivero da koto</i>
 
 1069
-01:17:25,160 --> 01:17:26,750
-Purigu
+01:17:25,160 --> 01:17:33,750
+<i>Purigu</i>
 
 1070
-01:18:10,640 --> 01:18:12,510
-Ĉu Scarlett vekis vin?
+01:17:33,950 --> 01:17:38,750
+<i>Mian malpuran memoron en ĝia rivero da koto</i>
 
 1071
+01:17:40,750 --> 01:17:41,750
+<i>Purigu</i>
+
+1072
+01:18:09,340 --> 01:18:12,510
+- Jeanne?
+- Ĉu Scarlett vekis vin?
+
+1073
 01:18:15,000 --> 01:18:16,590
 Mi kunportis kornajn bulkojn.
 
-1072
+1074
 01:18:31,520 --> 01:18:33,110
 Kio okazas?
 
-1073
-01:18:33,800 --> 01:18:36,430
-Mi pensas ke mi ne povos oferi
-matenmanĝon hodiaŭ...
-
-1074
-01:18:36,480 --> 01:18:37,870
-Fek...
-
 1075
-01:18:43,360 --> 01:18:46,560
-- Ĉu ni povas paroli?
-- Mi ne certas havi dirindaĵojn
+01:18:33,800 --> 01:18:36,430
+Mi kredas ke mi ne povos oferti
+matenmanĝon hodiaŭ…
 
 1076
+01:18:36,480 --> 01:18:37,870
+Fek…
+
+1077
+01:18:43,360 --> 01:18:46,560
+- Ĉu ni povas paroli?
+- Mi ne certas havi dirindaĵojn.
+
+1078
 01:18:46,610 --> 01:18:50,200
 Do ni paŝu. Ni estas sur strato.
 Neniu riproĉos tion al ni.
 
-1077
+1079
 01:18:50,240 --> 01:18:53,820
 - Mi ne riproĉas al vi ion ajn
-- Mi ne diris tion...
+- Mi ne diris tion…
 
-1078
+1080
 01:18:57,240 --> 01:19:00,470
-Ĉiu kuracas la ĉagreno siamaniere. Mi ne juĝas vin.
+Ĉiu kuracas la ĉagrenon siamaniere. Mi ne juĝas vin.
 
-1079
+1081
 01:19:00,520 --> 01:19:02,950
 Mi nur trovas ke via maniero estas maldelikata.
 
-1080
+1082
 01:19:03,000 --> 01:19:05,830
 - Do vi iomete juĝas min.
 - Ne, mi provas kompreni.
 
-1081
+1083
 01:19:05,880 --> 01:19:07,590
 Kompreni kion?
 
-1082
+1084
 01:19:07,640 --> 01:19:09,910
 Kompreni kio okazis inter Julie kaj vi.
 
-1083
+1085
 01:19:09,960 --> 01:19:12,520
 Tio estas defio. Vera defio.
 
-1084
-01:19:13,800 --> 01:19:15,430
-Kompreni...
-
-1085
-01:19:15,480 --> 01:19:17,550
-Kial vi neniam volis infanojn...
-
 1086
-01:19:17,600 --> 01:19:19,710
-Kial vi estis en triopo...
+01:19:13,800 --> 01:19:15,430
+Kompreni…
 
 1087
-01:19:20,440 --> 01:19:22,630
-Kompreni la vivo de mia fratino
-antaŭ ol ŝi mortis.
+01:19:15,480 --> 01:19:17,550
+Kial vi neniam volis infanojn…
 
 1088
+01:19:17,600 --> 01:19:19,710
+Kial vi estis en triopo…
+
+1089
+01:19:20,440 --> 01:19:22,630
+Kompreni la vivon de mia fratino
+antaŭ ol ŝi mortis.
+
+1090
 01:19:22,680 --> 01:19:25,990
 Ha, kaj la ĉeesto de iĉo en mia lito
 klarigas ĉion, ĉu ne?
 
-1089
+1091
 01:19:26,040 --> 01:19:29,270
 Vi havas la bonan noticon. Vi feliĉas!
 
-1090
+1092
 01:19:30,480 --> 01:19:33,190
-Certe ekzisatas kialoj de ŝia malfeliĉo, ĉu ne?
+Certe ekzistas kialoj de ŝia malfeliĉo, ĉu ne?
 
-1091
+1093
 01:19:38,040 --> 01:19:39,830
 Nun mi silentas.
 
-1092
+1094
 01:19:40,600 --> 01:19:44,350
 - Mi pensas ke estas pli bone?
 - Ne, ne estas pli bone.
 
-1093
+1095
 01:19:44,960 --> 01:19:48,310
 Neniu malhelpas vin paroli, tute male.
 
-1094
+1096
 01:19:48,320 --> 01:19:52,440
 Homoj bezonas aŭdi vin.
 Miaj patroj. Parolu al ilin.
 
-1095
+1097
 01:19:52,470 --> 01:19:54,980
 - Por diri kion?
-- Mi ne scias, kion vi vivas...
-
-1096
-01:19:55,000 --> 01:19:58,200
-Sufiĉas, ne estas miaj patroj
-mi jam havas patroj, mi ne bezonas aliajn.
-
-1097
-01:19:59,800 --> 01:20:03,520
-Vi nur pensas pri vi... Vi estas sendankula, egoisma.
+- Mi ne scias, kion vi vivas…
 
 1098
-01:20:03,570 --> 01:20:06,480
-Jes ja, mi estas senantaŭpripensa, stulta, kaj...
+01:19:55,000 --> 01:19:58,200
+Sufiĉas, ne estas miaj patroj
+mi jam havas patrojn, mi ne bezonas aliajn.
 
 1099
-01:20:06,520 --> 01:20:09,470
-Kaj mi estas gejaĉo, do...
+01:19:59,800 --> 01:20:03,520
+Vi nur pensas pri vi… Vi estas sendanka, egoisma.
 
 1100
+01:20:03,570 --> 01:20:06,480
+Jes ja, mi estas senantaŭpripensa, stulta, kaj…
+
+1101
+01:20:06,520 --> 01:20:09,470
+Kaj mi estas gejaĉo, do…
+
+1102
 01:20:09,470 --> 01:20:11,060
 Mi ne diris tion.
 
-1101
+1103
 01:20:11,520 --> 01:20:13,980
 Estas naŭze de ŝajnigi min aĉulon.
 
-1102
-01:20:22,900 --> 01:20:24,490
-Sama vintra suno
-
-1103
-01:20:25,040 --> 01:20:27,230
-Sama bruo de branĉetoj
-
 1104
-01:20:27,280 --> 01:20:29,510
-Fingropinto glaciigita
+01:20:22,900 --> 01:20:24,490
+<i>Sama vintra suno</i>
 
 1105
-01:20:29,560 --> 01:20:32,070
-Frosto sur la kradoj
+01:20:25,040 --> 01:20:27,230
+<i>Sama bruo de branĉetoj</i>
 
 1106
-01:20:32,120 --> 01:20:36,510
-Samaj odoroj de humo
-La tero kiu kaŝiĝas
+01:20:27,280 --> 01:20:29,510
+<i>Fingropintoj glaciigitaj</i>
 
 1107
-01:20:36,560 --> 01:20:38,430
-Ĉiu estos tie
+01:20:29,560 --> 01:20:32,070
+<i>Frosto sur la kradoj</i>
 
 1108
-01:20:38,480 --> 01:20:40,940
-Ĉiu estos tie
+01:20:32,120 --> 01:20:36,510
+<i>Samaj odoroj de humo</i>
+<i>La tero kiu kaŝiĝas</i>
 
 1109
-01:20:41,000 --> 01:20:42,830
-Krom vi
+01:20:36,560 --> 01:20:38,430
+<i>Ĉio estos tie</i>
 
 1110
-01:20:44,100 --> 01:20:46,780
-Pepiniera Parko, semajnfine
+01:20:38,480 --> 01:20:40,940
+<i>Ĉio estos tie</i>
 
 1111
-01:20:48,280 --> 01:20:52,060
-Unu horo plue, unu horo plue, apenaŭ
+01:20:41,000 --> 01:20:42,830
+<i>Krom vi</i>
 
 1112
-01:20:53,180 --> 01:20:56,330
-Unu horo plue ĝis venas la nokto
+01:20:44,100 --> 01:20:46,780
+<i>Pepiniera Parko, semajnfine</i>
 
 1113
-01:21:00,480 --> 01:21:02,510
-Sama temperaturo
+01:20:48,280 --> 01:20:52,060
+<i>Unu plu horo, unu plu horo, apenaŭ</i>
 
 1114
-01:21:02,560 --> 01:21:04,350
-Nulo sur la termometro
+01:20:53,180 --> 01:20:56,330
+<i>Unu plu horo kaj venas la nokto</i>
 
 1115
-01:21:04,400 --> 01:21:07,150
-Sama besta melankolio
+01:21:00,480 --> 01:21:02,510
+<i>Sama temperaturo</i>
 
 1116
-01:21:07,200 --> 01:21:09,270
-Ĉe la porego de la zoo
+01:21:02,560 --> 01:21:04,350
+<i>Nulo sur la termometro</i>
 
 1117
-01:21:09,880 --> 01:21:13,630
-Samaj hastemaj patroj,
-iliaj infanoj  kun manteloj
+01:21:04,400 --> 01:21:07,150
+<i>Sama besta melankolio</i>
 
 1118
-01:21:14,240 --> 01:21:18,510
-Ĉiu estos tie, ĉiu estos tie
+01:21:07,200 --> 01:21:09,270
+<i>Ĉe la pordego de la zoo</i>
 
 1119
-01:21:18,560 --> 01:21:20,270
-Krom vi
+01:21:09,880 --> 01:21:13,630
+<i>Samaj hastemaj patroj,</i>
+<i>iliaj infanoj kun manteloj</i>
 
 1120
-01:21:21,600 --> 01:21:24,830
-Pepiniera Parko, semajnfine
+01:21:14,240 --> 01:21:18,510
+<i>Ĉio estos tie, ĉio estos tie</i>
 
 1121
-01:21:26,000 --> 01:21:29,750
-Unu horo plue, unu horo plue, apenaŭ
+01:21:18,560 --> 01:21:20,270
+<i>Krom vi</i>
 
 1122
-01:21:30,680 --> 01:21:34,270
-Unu horo plue ĝis venas la nokto
+01:21:21,600 --> 01:21:24,830
+<i>Pepiniera Parko, semajnfine</i>
 
 1123
-01:21:37,800 --> 01:21:40,030
-Povas mi imiti
+01:21:26,000 --> 01:21:29,750
+<i>Unu plu horo, unu plu horo, apenaŭ</i>
 
 1124
-01:21:40,080 --> 01:21:42,310
-Refari la samajn itinerojn
+01:21:30,680 --> 01:21:34,270
+<i>Unu plu horo kaj venas la nokto</i>
 
 1125
-01:21:42,360 --> 01:21:44,630
-Resekvi la samajn aleojn
+01:21:37,800 --> 01:21:40,030
+<i>Mi ja povas imiti</i>
 
 1126
-01:21:44,680 --> 01:21:47,110
-Je la samaj taghoroj
+01:21:40,080 --> 01:21:42,310
+<i>Refari la samajn itinerojn</i>
 
 1127
-01:21:47,160 --> 01:21:51,150
-Mi ja estu sama, mi ja estu bela
+01:21:42,360 --> 01:21:44,630
+<i>Resekvi la samajn aleojn</i>
 
 1128
-01:21:51,760 --> 01:21:56,070
-Ĉiu estos tie, ĉiu estos tie
+01:21:44,680 --> 01:21:47,110
+<i>Je la samaj taghoroj</i>
 
 1129
-01:21:56,120 --> 01:21:57,990
-Krom vi
+01:21:47,160 --> 01:21:51,150
+<i>Mi ja estu sama, mi ja estu bela</i>
 
 1130
-01:21:59,120 --> 01:22:02,470
-Pepiniera Parko, semajnfine
+01:21:51,760 --> 01:21:56,070
+<i>Ĉio estos tie, ĉio estos tie</i>
 
 1131
-01:22:03,480 --> 01:22:07,230
-Unu horo plue, unu horo plue, apenaŭ
+01:21:56,120 --> 01:21:57,990
+<i>Krom vi</i>
 
 1132
-01:22:08,320 --> 01:22:12,550
-Unu horo plue ĝis venas la nokto
+01:21:59,120 --> 01:22:02,470
+<i>Pepiniera Parko, semajnfine</i>
 
 1133
-01:22:12,600 --> 01:22:14,590
-Venas la nokto
+01:22:03,480 --> 01:22:07,230
+<i>Unu plu horo, unu plu horo, apenaŭ</i>
 
 1134
-01:22:14,640 --> 01:22:16,190
-Kaj poste
+01:22:08,320 --> 01:22:12,550
+<i>Unu plu horo kaj venas la nokto</i>
 
 1135
-01:22:16,240 --> 01:22:17,590
-Neniu
+01:22:12,600 --> 01:22:14,590
+<i>Venas la nokto</i>
 
 1136
+01:22:14,640 --> 01:22:16,190
+<i>Kaj</i>
+
+1137
+01:22:16,240 --> 01:22:17,590
+<i>Nenio</i>
+
+1138
 01:22:26,040 --> 01:22:27,230
 Bonan kuraĝon.
 
-1137
+1139
 01:22:29,480 --> 01:22:32,480
 Saluton. Kial vi estas tie,
 ĉu via fratiĉo ankoraŭ sendis vin?
 
-1138
-01:22:32,520 --> 01:22:34,750
-Li ne rajtas tiel insisti, estas peza...
-
-1139
-01:22:34,830 --> 01:22:36,460
-Mi serĉas Ismaël.
-
 1140
+01:22:32,520 --> 01:22:34,750
+Li ne rajtas tiel insisti, estas peza…
+
+1141
+01:22:34,830 --> 01:22:36,460
+Mi serĉas na-Ismaël.
+
+1142
 01:22:36,490 --> 01:22:39,050
 - Vi ne estas sendita de Gwendal?
 - Nu, ne.
 
-1141
+1143
 01:22:40,160 --> 01:22:44,070
 - Li ne diris al vi ke ni rompis?
 - Ne, sed mi vidis.
 
-1142
+1144
 01:22:44,120 --> 01:22:46,600
 - Li vidas iun alian?
 - Jes. Kie estas Ismael?
 
-1143
-01:22:46,640 --> 01:22:48,830
-/!\ Li estas ja aĉa.
-Ne mi ne scias. /!\
-
-1144
-01:22:48,880 --> 01:22:51,670
-Mi ŝatus scii, mi ne volas labori sole.
-
 1145
+01:22:46,640 --> 01:22:48,830
+Li estas ja senhonta.
+Ne mi ne scias.
+
+1146
+01:22:48,880 --> 01:22:51,670
+Mi ŝatus scii, ĉar mi ne volas labori sole.
+
+1147
 01:22:51,720 --> 01:22:54,070
 - Li ne respondas alvokojn.
 - Mi scias.
 
-1146
+1148
 01:22:54,120 --> 01:22:56,270
 - Vi ne maltrankviliĝas?
 - Ĉu mi devus?
 
-1147
+1149
 01:22:57,970 --> 01:22:59,760
-Mi ŝatas Bloc Party.
+Mi ŝatas na-<i>Bloc Party</i>.
 
-1148
+1150
 01:23:00,680 --> 01:23:04,220
 - Kio okazas, Erwann?
 - Mi nur esperis ke li estos tie.
 
-1149
+1151
 01:23:04,280 --> 01:23:08,760
 - Kiel vi serĉas Ismael?
 - Mi ne volas dolorigi lin.
 
-1150
-01:23:08,810 --> 01:23:11,310
-Mi havas antaŭekzameno morgaŭ. Ĝis.
-
-1151
-01:23:16,040 --> 01:23:18,630
-Diru al mi, nur ion...
-
 1152
+01:23:08,810 --> 01:23:11,310
+Mi havas antaŭekzamenon morgaŭ. Ĝis.
+
+1153
+01:23:16,040 --> 01:23:18,630
+Diru al mi, nur ion…
+
+1154
 01:23:18,680 --> 01:23:21,910
 Ŝajnos al vi stranga,
 sed mi subite havas dubon.
 
-1153
+1155
 01:23:21,960 --> 01:23:24,110
 Vi ne estas kune, kun Ismaël?
 
-1154
+1156
 01:23:24,160 --> 01:23:25,630
 Mi esperas ke jes.
 
-1155
+1157
 01:23:25,950 --> 01:23:26,500
 OK.
 
-1156
+1158
 01:23:27,960 --> 01:23:29,140
 Saluton
 
-1157
+1159
 01:23:31,760 --> 01:23:33,150
 Saluton!
 
-1158
-01:23:33,880 --> 01:23:35,470
-/!\ Ha ha, porkulo! /!\
-
-1159
-01:24:30,480 --> 01:24:32,780
-Kial vi venas tiom malfrue
-
 1160
-01:24:32,840 --> 01:24:35,140
-Mi ne plu atendis vin
+01:23:33,880 --> 01:23:35,470
+Ha ha, porkulo!
 
 1161
-01:24:35,200 --> 01:24:37,710
-Mi ĉesis kredi pri tio
+01:24:30,480 --> 01:24:32,780
+<i>Kial vi venas tiom malfrue</i>
 
 1162
-01:24:37,760 --> 01:24:40,110
-Mi ne plu esperis
+01:24:32,840 --> 01:24:35,140
+<i>Mi ne plu atendis vin</i>
 
 1163
-01:24:40,160 --> 01:24:42,620
-Kial vi venas tiom malfrue
+01:24:35,200 --> 01:24:37,710
+<i>Mi ĉesis kredi pri tio</i>
 
 1164
-01:24:42,680 --> 01:24:45,060
-Kion kondukas vin tien
+01:24:37,760 --> 01:24:40,110
+<i>Mi ne plu esperis</i>
 
 1165
-01:24:45,120 --> 01:24:47,550
-Kiu stranga kruelo
+01:24:40,160 --> 01:24:42,620
+<i>Kial vi venas tiom malfrue</i>
 
 1166
-01:24:47,600 --> 01:24:50,160
-Tiu subita emo
+01:24:42,680 --> 01:24:45,060
+<i>Kio kondukas vin tien</i>
 
 1167
-01:24:50,200 --> 01:24:52,470
-Kial vi venas tiom malfrue
+01:24:45,120 --> 01:24:47,550
+<i>Kiu stranga kruelo</i>
 
 1168
-01:24:52,520 --> 01:24:54,900
-Ĉu via patrino instruis vin nenion
+01:24:47,600 --> 01:24:50,160
+<i>Tiu subita emo</i>
 
 1169
-01:24:54,960 --> 01:24:57,310
-Oni ne alvenas tiom malfrue
+01:24:50,200 --> 01:24:52,470
+<i>Kial vi venas tiom malfrue</i>
 
 1170
-01:24:57,360 --> 01:24:59,790
-Ĉe kiu invitas vin
+01:24:52,520 --> 01:24:54,900
+<i>Ĉu via patrino instruis al vi nenion</i>
 
 1171
-01:24:59,840 --> 01:25:02,300
-Sen floroj, bone
+01:24:54,960 --> 01:24:57,310
+<i>Oni ne alvenas tiom malfrue</i>
 
 1172
-01:25:02,360 --> 01:25:04,740
-Sed vera gentileco
+01:24:57,360 --> 01:24:59,790
+<i>Ĉe kiu invitas vin</i>
 
 1173
-01:25:04,800 --> 01:25:07,260
-Postulas alveni ĝusttempe
+01:24:59,840 --> 01:25:02,300
+<i>Sen floroj, bone</i>
 
 1174
-01:25:07,320 --> 01:25:09,880
-Kiam la tempo hastigas nin
+01:25:02,360 --> 01:25:04,740
+<i>Sed vera gentileco</i>
 
 1175
-01:25:19,760 --> 01:25:22,140
-Kial vi venas tiom malfrue
+01:25:04,800 --> 01:25:07,260
+<i>Postulas alveni ĝusttempe</i>
 
 1176
-01:25:22,200 --> 01:25:24,500
-Kiam ĉiu estas finita
+01:25:07,320 --> 01:25:09,880
+<i>Kiam la tempo hastigas nin</i>
 
 1177
-01:25:24,560 --> 01:25:27,020
-Kaj iu alia okupas
+01:25:19,760 --> 01:25:22,140
+<i>Kial vi venas tiom malfrue</i>
 
 1178
-01:25:27,080 --> 01:25:29,460
-Mian lokon en via lito
+01:25:22,200 --> 01:25:24,500
+<i>Kiam ĉiu estas finita</i>
 
 1179
-01:25:29,520 --> 01:25:32,080
-Kial vi venas tiom malfrue
+01:25:24,560 --> 01:25:27,020
+<i>Kaj iu alia okupas</i>
 
 1180
-01:25:32,120 --> 01:25:34,390
-Vi havas neniun ekskuzon
+01:25:27,080 --> 01:25:29,460
+<i>Mian lokon en via lito</i>
 
 1181
-01:25:34,440 --> 01:25:36,870
-Neniu ajn mensogon
+01:25:29,520 --> 01:25:32,080
+<i>Kial vi venas tiom malfrue</i>
 
 1182
-01:25:36,920 --> 01:25:39,190
-Neniu ajn ruzon
+01:25:32,120 --> 01:25:34,390
+<i>Vi havas neniun ekskuzon</i>
 
 1183
-01:25:39,240 --> 01:25:41,830
-Kial vi venas tiom malfrue
+01:25:34,440 --> 01:25:36,870
+<i>Neniu ajn mensogon</i>
 
 1184
-01:25:41,880 --> 01:25:44,390
-/!\ Mi ne povas fari ion ajn por vi /!\
+01:25:36,920 --> 01:25:39,190
+<i>Neniu ajn ruzon</i>
 
 1185
-01:25:44,440 --> 01:25:46,790
-Via buŝo plena da historioj
+01:25:39,240 --> 01:25:41,830
+<i>Kial vi venas tiom malfrue</i>
 
 1186
-01:25:46,840 --> 01:25:49,270
-Da lumaj estontecoj
+01:25:41,880 --> 01:25:44,390
+<i>/!\ Mi ne povas fari ion ajn por vi /!\</i>
 
 1187
-01:25:49,320 --> 01:25:51,750
-Kie ne estas tiom malfrue
+01:25:44,440 --> 01:25:46,790
+<i>Via buŝo plena da historioj</i>
 
 1188
-01:25:51,800 --> 01:25:54,070
-Anĝelo, kia stulta
+01:25:46,840 --> 01:25:49,270
+<i>Da lumaj estontecoj</i>
 
 1189
-01:25:54,120 --> 01:25:56,630
-Se vi povus vidi vin
+01:25:49,320 --> 01:25:51,750
+<i>Kie ne estas tiom malfrue</i>
 
 1190
-01:25:56,680 --> 01:25:58,950
-Ĉu ni ne kreskis
+01:25:51,800 --> 01:25:54,070
+<i>Anĝelo, kia stulta</i>
 
 1191
+01:25:54,120 --> 01:25:56,630
+<i>Se vi povus vidi vin</i>
+
+1192
+01:25:56,680 --> 01:25:58,950
+<i>Ĉu ni ne kreskis</i>
+
+1193
 01:26:15,920 --> 01:26:17,990
 BRETONUJO
 
-1192
-01:26:45,640 --> 01:26:48,200
-Infano, tuj de hodiaŭ matene
-
-1193
-01:26:49,280 --> 01:26:52,030
-Mi min tiris, kiel stultulo
-
 1194
-01:26:52,080 --> 01:26:53,300
-Ni atendis vin...
+01:26:45,640 --> 01:26:48,200
+<i>Infano, tuj de hodiaŭ matene</i>
 
 1195
-01:26:53,360 --> 01:26:56,190
-Je la nivelo de la defluigo
+01:26:49,280 --> 01:26:52,030
+<i>Mi min tiris, kiel stultulo</i>
 
 1196
-01:26:56,880 --> 01:26:59,340
-De Montparnasse ĝis Chateau d'Eau
+01:26:52,080 --> 01:26:53,300
+Ni atendis vin…
 
 1197
+01:26:53,360 --> 01:26:56,190
+<i>Je la nivelo de la defluilo</i>
+
+1198
+01:26:56,880 --> 01:26:59,340
+<i>De</i> Montparnasse <i>ĝis</i> Chateau d'Eau
+
+1199
 01:26:59,400 --> 01:27:00,950
 Ĉu bone?
 
-1198
+1200
 01:27:01,000 --> 01:27:03,590
-Mi drinkis glasojn, glasojn, kaj glasojn
+<i>Mi drinkis glasojn, glasojn, kaj glasojn</i>
 
-1199
+1201
 01:27:03,640 --> 01:27:04,750
 Mi estas ege melankolia.
 
-1200
-01:27:04,800 --> 01:27:08,230
-Zubrowska, Riesling, Piper
-
-1201
-01:27:08,310 --> 01:27:11,740
-Senigita de ĉio, lacega
-
 1202
-01:27:12,480 --> 01:27:15,990
-Mi revenis ĉe vi
+01:27:04,800 --> 01:27:08,230
+<i>Zubrowska, Riesling, Piper</i>
 
 1203
-01:27:16,040 --> 01:27:18,920
-Mi nur volis korpon, mi nur serĉis brakojn
+01:27:08,310 --> 01:27:11,740
+<i>Senigita de ĉio, lacega</i>
 
 1204
+01:27:12,480 --> 01:27:15,990
+<i>Mi revenis ĉe vi</i>
+
+1205
+01:27:16,040 --> 01:27:18,920
+<i>Mi nur volis korpon, mi nur serĉis brakojn</i>
+
+1206
 01:27:18,920 --> 01:27:20,390
 Se vi bruas, mi mortigos vin.
 
-1205
-01:27:23,720 --> 01:27:27,500
-Lito konsolanta, plezuroj sub la drapoj
-
-1206
-01:27:27,560 --> 01:27:30,590
-Sed, ve, anstataŭ tio
-
 1207
-01:27:31,320 --> 01:27:33,880
-Mi aŭdis
-"Mi amas vin"
+01:27:23,720 --> 01:27:27,500
+<i>Lito konsolanta, plezuroj sub la drapoj</i>
 
 1208
-01:27:35,080 --> 01:27:37,750
-Mi pensis:
-estas lia problemo
+01:27:27,560 --> 01:27:30,590
+<i>Sed, ve, anstataŭ tio</i>
 
 1209
-01:27:39,000 --> 01:27:41,750
-Mi aŭdis
-"Mi amas vin"
+01:27:31,320 --> 01:27:33,880
+<i>Mi aŭdis</i>
+<i>"Mi amas vin"</i>
 
 1210
-01:27:42,800 --> 01:27:45,670
-Mi pensis:
-estas lia problemo
+01:27:35,080 --> 01:27:37,750
+<i>Mi pensis:</i>
+<i>estas lia problemo</i>
 
 1211
-01:27:48,920 --> 01:27:52,430
-Ne gravas, ke vi kredas tion
+01:27:39,000 --> 01:27:41,750
+<i>Mi aŭdis</i>
+<i>"Mi amas vin"</i>
 
 1212
-01:27:52,480 --> 01:27:56,310
-Ne gravas ke mi estas
+01:27:42,800 --> 01:27:45,670
+<i>Mi pensis:</i>
+<i>estas lia problemo</i>
 
 1213
-01:27:56,400 --> 01:27:59,680
-lacega, senigita de ĉio
+01:27:48,920 --> 01:27:52,430
+<i>Ne gravas, ke vi kredas tion</i>
 
 1214
-01:28:00,040 --> 01:28:01,910
-Neniu tiel inter ni
+01:27:52,480 --> 01:27:56,310
+<i>Ne gravas ke mi estas</i>
 
 1215
-01:28:04,080 --> 01:28:07,990
-Esti korpo, mi konsentas,
-oferi miajn brakojn, kial ne
+01:27:56,400 --> 01:27:59,680
+<i>lacega, senigita de ĉio</i>
 
 1216
-01:28:11,360 --> 01:28:15,550
-Mia lito, bone ankoraŭ,
-por ridi kaj malpurigi la drapojn
+01:28:00,040 --> 01:28:01,910
+<i>Neniu tiel inter ni</i>
 
 1217
-01:28:15,600 --> 01:28:18,230
-Sed mi timas ke por tio
+01:28:04,080 --> 01:28:07,990
+<i>Esti korpo, mi konsentas,</i>
+<i>oferti miajn brakojn, kial ne</i>
 
 1218
-01:28:19,480 --> 01:28:22,070
-Vi devas aŭdi
-"Mi amas vin"
+01:28:11,360 --> 01:28:15,550
+<i>Mian liton, bone ankoraŭ,</i>
+<i>por ridi kaj malpurigi la drapojn</i>
 
 1219
-01:28:23,240 --> 01:28:25,830
-Vi devas aŭdi
-"Mi amas vin"
+01:28:15,600 --> 01:28:18,230
+<i>Sed mi timas ke por tio</i>
 
 1220
-01:28:29,040 --> 01:28:32,550
-Mi estas maljuna, vidva, kaj mallarĝanima
+01:28:19,480 --> 01:28:22,070
+<i>Vi devas aŭdi</i>
+<i>"Mi amas vin"</i>
 
 1221
-01:28:32,600 --> 01:28:36,630
-Aĉa stultulo, sekretario
+01:28:23,240 --> 01:28:25,830
+<i>Vi devas aŭdi</i>
+<i>"Mi amas vin"</i>
 
 1222
-01:28:36,680 --> 01:28:39,590
-Mi estas bela, juna kaj britonia
+01:28:29,040 --> 01:28:32,550
+<i>Mi estas maljuna, vidva, kaj mallarĝanima</i>
 
 1223
-01:28:39,640 --> 01:28:43,870
-Mi odoras pluvon, oceanon kaj citronan flanon
+01:28:32,600 --> 01:28:36,630
+<i>Aĉa stultulo, sekretario</i>
 
 1224
-01:28:43,920 --> 01:28:48,150
-Silentu iomete, eta trezoro
+01:28:36,680 --> 01:28:39,590
+<i>Mi estas bela, juna kaj britona</i>
 
 1225
-01:28:48,200 --> 01:28:51,820
-Vi malpravas, denove
+01:28:39,640 --> 01:28:43,870
+<i>Mi odoras pluvon, oceanon kaj citronan flanon</i>
 
 1226
-01:28:51,880 --> 01:28:54,830
-Mi estas precioza, indulgu min
+01:28:43,920 --> 01:28:48,150
+<i>Silentu iomete, eta trezoro</i>
 
 1227
-01:28:54,880 --> 01:28:58,750
-Bone sed, inter ni, neniu tiel
+01:28:48,200 --> 01:28:51,820
+<i>Vi malpravas, denove</i>
 
 1228
-01:28:59,760 --> 01:29:01,630
-Esti korpo, mi konsentas
+01:28:51,880 --> 01:28:54,830
+<i>Mi estas precioza, indulgu min</i>
 
 1229
-01:29:01,680 --> 01:29:04,060
-Mi nur serĉis brakojn
+01:28:54,880 --> 01:28:58,750
+<i>Bone sed, inter ni, neniu tiel</i>
 
 1230
-01:29:07,440 --> 01:29:09,310
-Mia lito, bone ankoraŭ
+01:28:59,760 --> 01:29:01,630
+<i>Esti korpo, mi konsentas</i>
 
 1231
-01:29:09,360 --> 01:29:11,270
-Plezuroj sub la drapoj
+01:29:01,680 --> 01:29:04,060
+<i>Mi nur serĉis brakojn</i>
 
 1232
-01:29:11,320 --> 01:29:14,030
-Sed mi timas ke por tio
+01:29:07,440 --> 01:29:09,310
+<i>Mia lito, bone ankoraŭ</i>
 
 1233
-01:29:14,920 --> 01:29:17,030
-Vi devas aŭdi...
+01:29:09,360 --> 01:29:11,270
+<i>Plezuroj sub la drapoj</i>
 
 1234
+01:29:11,320 --> 01:29:14,030
+<i>Sed mi timas ke por tio</i>
+
+1235
+01:29:14,920 --> 01:29:17,030
+<i>Vi devas aŭdi…</i>
+
+1236
 01:29:21,450 --> 01:29:24,520
 Amu min malpli, sed malpli longtempe.
-
